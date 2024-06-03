@@ -1,0 +1,1136 @@
+{'renormalize_logits': True, 'typical_p': 0.5425490061313314, 'temperature': 2.3014777730162006, 'do_sample': True, 'epsilon_cutoff': 0.6027633760716439}
+                i: 0
+                bleu: 0.187248462641504 
+                rouge: 0.3718454126240165
+                meteor: 0.39786465681836014
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.47437354247339847, 'temperature': 2.31120331961796, 'do_sample': True, 'eta_cutoff': 0.00011437481734488664}
+                i: 1
+                bleu: 0.19593742771861844 
+                rouge: 0.3848423505169654
+                meteor: 0.40585855815831384
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.48418818216925386, 'temperature': 0.9960649478125071, 'do_sample': True, 'top_p': 0.5496624778787091}
+                i: 2
+                bleu: 0.19236453458354622 
+                rouge: 0.3776300102380361
+                meteor: 0.3973468931272006
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5435755313522623, 'temperature': 2.2881416157992773, 'do_sample': True, 'top_k': 9}
+                i: 3
+                bleu: 0.18783583098041035 
+                rouge: 0.3729726999623436
+                meteor: 0.37835059607425947
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7588914312615773, 'temperature': 1.9833795549565725, 'do_sample': True, 'epsilon_cutoff': 0.9726843599648843}
+                i: 4
+                bleu: 0.19393621568262634 
+                rouge: 0.3823567321519631
+                meteor: 0.40110051649917416
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3734855395564107, 'temperature': 2.5960644675816265, 'do_sample': True, 'eta_cutoff': 0.20671915533942642}
+                i: 5
+                bleu: 0.18084303255350168 
+                rouge: 0.3546962775558602
+                meteor: 0.3841538258850319
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7205236088320834, 'temperature': 1.5757075254986896, 'do_sample': True, 'top_p': 0.8212291230578318}
+                i: 6
+                bleu: 0.19200281450058776 
+                rouge: 0.37311099882196186
+                meteor: 0.40814808171657674
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.29812305853639587, 'temperature': 2.424070464342422, 'do_sample': True, 'top_k': 4}
+                i: 7
+                bleu: 0.18245705000009343 
+                rouge: 0.36941895185612894
+                meteor: 0.3829614905738019
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7104721236768914, 'temperature': 2.7813061797456853, 'do_sample': True, 'epsilon_cutoff': 0.86919454021392}
+                i: 8
+                bleu: 0.19393621568262634 
+                rouge: 0.3823567321519631
+                meteor: 0.40110051649917416
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.26401546977506607, 'temperature': 1.897475544954149, 'do_sample': True, 'eta_cutoff': 0.4957732931341461}
+                i: 9
+                bleu: 0.17856087574563062 
+                rouge: 0.3654746040915092
+                meteor: 0.38360927502841574
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6576514784523722, 'temperature': 0.9862652438140381, 'do_sample': True, 'top_p': 0.6336482349262754}
+                i: 10
+                bleu: 0.1850229811872771 
+                rouge: 0.3663657359499094
+                meteor: 0.388853101333091
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.35190207050093036, 'temperature': 0.9838472545929007, 'do_sample': True, 'top_k': 18}
+                i: 11
+                bleu: 0.16925781830526798 
+                rouge: 0.35767965972190485
+                meteor: 0.3712296170286031
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3383970540540744, 'temperature': 2.3485613789439954, 'do_sample': True, 'epsilon_cutoff': 0.26331501518513467}
+                i: 12
+                bleu: 0.16510447278952073 
+                rouge: 0.34264905036408266
+                meteor: 0.37330149800100787
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.660952753175523, 'temperature': 1.3968479082900305, 'do_sample': True, 'eta_cutoff': 0.8242785326613685}
+                i: 13
+                bleu: 0.18741820305886642 
+                rouge: 0.37723470318162017
+                meteor: 0.38911894108418715
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5245107460739473, 'temperature': 2.4112793856060684, 'do_sample': True, 'top_p': 0.8704276857248127}
+                i: 14
+                bleu: 0.18860075335973514 
+                rouge: 0.37781809529949306
+                meteor: 0.396083665767336
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6977405404918651, 'temperature': 1.2857781055649105, 'do_sample': True, 'top_k': 1}
+                i: 15
+                bleu: 0.19393621568262634 
+                rouge: 0.3823567321519631
+                meteor: 0.40110051649917416
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3741569446512415, 'temperature': 1.9377948438012997, 'do_sample': True, 'epsilon_cutoff': 0.5507014565811811}
+                i: 16
+                bleu: 0.1842588088682158 
+                rouge: 0.36139116966528384
+                meteor: 0.3740855887668122
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.411078524256986, 'temperature': 1.9518542350901016, 'do_sample': True, 'eta_cutoff': 0.19152078694749486}
+                i: 17
+                bleu: 0.186409551415267 
+                rouge: 0.3744135142407206
+                meteor: 0.3952305044365796
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5950861608835154, 'temperature': 1.9042534896126724, 'do_sample': True, 'top_p': 0.8786014709215519}
+                i: 18
+                bleu: 0.1770340609047604 
+                rouge: 0.35904287150514624
+                meteor: 0.3667711131146753
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3091028677122219, 'temperature': 2.388712631526237, 'do_sample': True, 'top_k': 41}
+                i: 19
+                bleu: 0.17460884114291264 
+                rouge: 0.3660115491110529
+                meteor: 0.38705115658024875
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5628877607455678, 'temperature': 2.647165262337626, 'do_sample': True, 'epsilon_cutoff': 0.891530729474708}
+                i: 20
+                bleu: 0.18450084134463207 
+                rouge: 0.3647382070798162
+                meteor: 0.38428643506843746
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.28385421965653346, 'temperature': 1.4945146762599741, 'do_sample': True, 'eta_cutoff': 0.7209663468312298}
+                i: 21
+                bleu: 0.1895857322406336 
+                rouge: 0.3799664477501053
+                meteor: 0.4031005882684134
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.36648513676454675, 'temperature': 1.8592305087262564, 'do_sample': True, 'top_p': 0.4205380353143747}
+                i: 22
+                bleu: 0.19036118518859135 
+                rouge: 0.37778242995430444
+                meteor: 0.3992064411719057
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5262460425554539, 'temperature': 2.740438949862279, 'do_sample': True, 'top_k': 41}
+                i: 23
+                bleu: 0.18664033813329622 
+                rouge: 0.36601585693962846
+                meteor: 0.39433963130988786
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7552638613950744, 'temperature': 2.2717861082549917, 'do_sample': True, 'epsilon_cutoff': 0.9998672926238792}
+                i: 24
+                bleu: 0.19393621568262634 
+                rouge: 0.3823567321519631
+                meteor: 0.40110051649917416
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7087623164843917, 'temperature': 2.049751556848934, 'do_sample': True, 'eta_cutoff': 0.27883894070106907}
+                i: 25
+                bleu: 0.18949798947379992 
+                rouge: 0.38087681107660243
+                meteor: 0.39270586587643824
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.4179430412785917, 'temperature': 1.9306512190991654, 'do_sample': True, 'top_p': 0.7682976615379734}
+                i: 26
+                bleu: 0.19821895352118454 
+                rouge: 0.38866226979506757
+                meteor: 0.41339427464677936
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.4788737266929045, 'temperature': 2.489723283662679, 'do_sample': True, 'top_k': 49}
+                i: 27
+                bleu: 0.18189667418690506 
+                rouge: 0.3686313234193125
+                meteor: 0.40175756721624883
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6357662081045385, 'temperature': 2.0099084341831617, 'do_sample': True, 'epsilon_cutoff': 0.12496709200924094}
+                i: 28
+                bleu: 0.18069215777487588 
+                rouge: 0.37017445679625127
+                meteor: 0.38191328208163483
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7054701546100589, 'temperature': 1.4865531931634668, 'do_sample': True, 'eta_cutoff': 0.07325638808373602}
+                i: 29
+                bleu: 0.17582095449684618 
+                rouge: 0.36034329677180454
+                meteor: 0.38407318454910394
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5918630300249034, 'temperature': 1.6680717661016695, 'do_sample': True, 'top_p': 0.6630479053356686}
+                i: 30
+                bleu: 0.1852340982344275 
+                rouge: 0.39852237996242146
+                meteor: 0.4115928211971138
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.40662397853450893, 'temperature': 2.7615428878154136, 'do_sample': True, 'top_k': 35}
+                i: 31
+                bleu: 0.1794008003985708 
+                rouge: 0.3732354345891373
+                meteor: 0.38231108173712697
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7029505423525315, 'temperature': 1.6528496553872496, 'do_sample': True, 'epsilon_cutoff': 0.5551287779985967}
+                i: 32
+                bleu: 0.19393621568262634 
+                rouge: 0.3823567321519631
+                meteor: 0.40110051649917416
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3872027049612785, 'temperature': 1.7991823965566711, 'do_sample': True, 'eta_cutoff': 0.4109408029965408}
+                i: 33
+                bleu: 0.1849282529315086 
+                rouge: 0.35728151550223836
+                meteor: 0.37331503401092764
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.2785968178408153, 'temperature': 2.4244145304859774, 'do_sample': True, 'top_p': 0.09270375533413333}
+                i: 34
+                bleu: 0.19393621568262634 
+                rouge: 0.3823567321519631
+                meteor: 0.40110051649917416
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.49559979732507564, 'temperature': 1.5309536972083486, 'do_sample': True, 'top_k': 34}
+                i: 35
+                bleu: 0.17882940709804004 
+                rouge: 0.3750759171869425
+                meteor: 0.37165080905556547
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6355041705027852, 'temperature': 2.0863749258910054, 'do_sample': True, 'epsilon_cutoff': 0.9521806674060137}
+                i: 36
+                bleu: 0.1886303493231671 
+                rouge: 0.3774065049064723
+                meteor: 0.3978815999672541
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7472350358816717, 'temperature': 1.8259298349448205, 'do_sample': True, 'eta_cutoff': 0.1927950289571576}
+                i: 37
+                bleu: 0.19376505465068605 
+                rouge: 0.36180188227402643
+                meteor: 0.3816151076114258
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.4576912624103569, 'temperature': 2.5751849656697727, 'do_sample': True, 'top_p': 0.9441996358074201}
+                i: 38
+                bleu: 0.19066752402683027 
+                rouge: 0.3790756494158273
+                meteor: 0.3929402770778013
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5415535450959335, 'temperature': 2.458123673364949, 'do_sample': True, 'top_k': 21}
+                i: 39
+                bleu: 0.18662710070451954 
+                rouge: 0.37170737627385897
+                meteor: 0.3814598190095475
+                
+                
+
+Best: None{'renormalize_logits': True, 'typical_p': 0.5425490061313314, 'temperature': 2.3014777730162006, 'do_sample': True, 'epsilon_cutoff': 0.6027633760716439}
+                i: 0
+                bleu: 0.187248462641504 
+                rouge: 0.37247209738607556
+                meteor: 0.39786465681836014
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5425490061313314, 'temperature': 2.3014777730162006, 'do_sample': True, 'epsilon_cutoff': 0.6027633760716439}
+                i: 0
+                bleu: 0.187248462641504 
+                rouge: 0.3718454126240165
+                meteor: 0.39786465681836014
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5425490061313314, 'temperature': 2.3014777730162006, 'do_sample': True, 'epsilon_cutoff': 0.0006616580256429863}
+                i: 0
+                bleu: 0.18433425830562908 
+                rouge: 0.38030919469343594
+                meteor: 0.3919531454901259
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.47437354247339847, 'temperature': 2.31120331961796, 'do_sample': True, 'eta_cutoff': 0.00030019443718948627}
+                i: 1
+                bleu: 0.18374219417706553 
+                rouge: 0.3685093784018451
+                meteor: 0.38768858741262713
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.48418818216925386, 'temperature': 0.9960649478125071, 'do_sample': True, 'epsilon_cutoff': 0.0006297974867272254}
+                i: 2
+                bleu: 0.1888123046477919 
+                rouge: 0.37493555694980485
+                meteor: 0.39433235873330774
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5435755313522623, 'temperature': 2.2881416157992773, 'do_sample': True, 'eta_cutoff': 0.0007945380561520054}
+                i: 3
+                bleu: 0.19510766015460185 
+                rouge: 0.37536932854671534
+                meteor: 0.4013115355405555
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7588914312615773, 'temperature': 1.9833795549565725, 'do_sample': True, 'epsilon_cutoff': 0.0008836106159789306}
+                i: 4
+                bleu: 0.1560823182048082 
+                rouge: 0.3357796789812839
+                meteor: 0.35261461630647484
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3734855395564107, 'temperature': 2.5960644675816265, 'do_sample': True, 'eta_cutoff': 0.0006514225640770249}
+                i: 5
+                bleu: 0.17677373251295248 
+                rouge: 0.36066363444193583
+                meteor: 0.37677956304784777
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7205236088320834, 'temperature': 1.5757075254986896, 'do_sample': True, 'epsilon_cutoff': 0.0007927374738346991}
+                i: 6
+                bleu: 0.18136717791963555 
+                rouge: 0.3643573940292727
+                meteor: 0.3956179648187193
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.29812305853639587, 'temperature': 2.424070464342422, 'do_sample': True, 'eta_cutoff': 0.001045295693449519}
+                i: 7
+                bleu: 0.1761943866214999 
+                rouge: 0.3542966743850817
+                meteor: 0.3915272054646539
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7104721236768914, 'temperature': 2.7813061797456853, 'do_sample': True, 'epsilon_cutoff': 0.0008215167241283519}
+                i: 8
+                bleu: 0.19404881226437304 
+                rouge: 0.37891289510618364
+                meteor: 0.4103871635986814
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.26401546977506607, 'temperature': 1.897475544954149, 'do_sample': True, 'eta_cutoff': 0.0011428145983280484}
+                i: 9
+                bleu: 0.15912271374431872 
+                rouge: 0.3464907051662374
+                meteor: 0.36958232890929243
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6576514784523722, 'temperature': 0.9862652438140381, 'do_sample': True, 'epsilon_cutoff': 0.0006801889409557653}
+                i: 10
+                bleu: 0.17216800435159052 
+                rouge: 0.35781729363757353
+                meteor: 0.3741900826005265
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.35190207050093036, 'temperature': 0.9838472545929007, 'do_sample': True, 'eta_cutoff': 0.0010874714950471858}
+                i: 11
+                bleu: 0.17497940798567596 
+                rouge: 0.36509125059041736
+                meteor: 0.3589097091297289
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3383970540540744, 'temperature': 2.3485613789439954, 'do_sample': True, 'epsilon_cutoff': 0.0004579890091110808}
+                i: 12
+                bleu: 0.17280883919909187 
+                rouge: 0.36546473654748535
+                meteor: 0.37912211648899324
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.660952753175523, 'temperature': 1.3968479082900305, 'do_sample': True, 'eta_cutoff': 0.0017012735055243265}
+                i: 13
+                bleu: 0.17988545077572815 
+                rouge: 0.3747691077051084
+                meteor: 0.398546181856748
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5245107460739473, 'temperature': 2.4112793856060684, 'do_sample': True, 'epsilon_cutoff': 0.0008222566114348877}
+                i: 14
+                bleu: 0.17686957337575504 
+                rouge: 0.3628455159513627
+                meteor: 0.37440910946580686
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6977405404918651, 'temperature': 1.2857781055649105, 'do_sample': True, 'eta_cutoff': 0.0003924174643209334}
+                i: 15
+                bleu: 0.16944615932447868 
+                rouge: 0.3540991121374213
+                meteor: 0.35714914037323103
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3741569446512415, 'temperature': 1.9377948438012997, 'do_sample': True, 'epsilon_cutoff': 0.0006304208739487087}
+                i: 16
+                bleu: 0.16335432064321967 
+                rouge: 0.33987329698593804
+                meteor: 0.3884769678287725
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.411078524256986, 'temperature': 1.9518542350901016, 'do_sample': True, 'eta_cutoff': 0.0006255853378107413}
+                i: 17
+                bleu: 0.20115130747302262 
+                rouge: 0.3779768936229638
+                meteor: 0.40686165601869406
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5950861608835154, 'temperature': 1.9042534896126724, 'do_sample': True, 'epsilon_cutoff': 0.0008271608825529311}
+                i: 18
+                bleu: 0.17597059027006948 
+                rouge: 0.36187614509595134
+                meteor: 0.35391163543901705
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3091028677122219, 'temperature': 2.388712631526237, 'do_sample': True, 'eta_cutoff': 0.000719794554382756}
+                i: 19
+                bleu: 0.18641555664037074 
+                rouge: 0.3882813259143114
+                meteor: 0.3936475120791153
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5628877607455678, 'temperature': 2.647165262337626, 'do_sample': True, 'epsilon_cutoff': 0.0008349184376848248}
+                i: 20
+                bleu: 0.19069921097741097 
+                rouge: 0.3802525626809905
+                meteor: 0.39417249848510666
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.28385421965653346, 'temperature': 1.4945146762599741, 'do_sample': True, 'eta_cutoff': 0.0015256427896130906}
+                i: 21
+                bleu: 0.18255385855740391 
+                rouge: 0.36633440694214275
+                meteor: 0.3872661027524779
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.36648513676454675, 'temperature': 1.8592305087262564, 'do_sample': True, 'epsilon_cutoff': 0.0005523228211886248}
+                i: 22
+                bleu: 0.177887993292268 
+                rouge: 0.36469992033307497
+                meteor: 0.3753757923147951
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5262460425554539, 'temperature': 2.740438949862279, 'do_sample': True, 'eta_cutoff': 0.0016012815909747418}
+                i: 23
+                bleu: 0.18580049442884633 
+                rouge: 0.36526156872548554
+                meteor: 0.393331549318143
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7552638613950744, 'temperature': 2.2717861082549917, 'do_sample': True, 'epsilon_cutoff': 0.0008999203755743275}
+                i: 24
+                bleu: 0.18981326273831242 
+                rouge: 0.3839843915576151
+                meteor: 0.3986677343807109
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7087623164843917, 'temperature': 2.049751556848934, 'do_sample': True, 'eta_cutoff': 0.0007740261991918175}
+                i: 25
+                bleu: 0.1983701191531982 
+                rouge: 0.38297721016256736
+                meteor: 0.4002776801747416
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.4179430412785917, 'temperature': 1.9306512190991654, 'do_sample': True, 'epsilon_cutoff': 0.000760978596922784}
+                i: 26
+                bleu: 0.17783405265051364 
+                rouge: 0.3753359346397013
+                meteor: 0.38690802471525615
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.4788737266929045, 'temperature': 2.489723283662679, 'do_sample': True, 'eta_cutoff': 0.0015501753933394554}
+                i: 27
+                bleu: 0.1811923364879223 
+                rouge: 0.359970671870966
+                meteor: 0.3754346196429147
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6357662081045385, 'temperature': 2.0099084341831617, 'do_sample': True, 'epsilon_cutoff': 0.00037498025520554454}
+                i: 28
+                bleu: 0.17491164274710028 
+                rouge: 0.36758970254835643
+                meteor: 0.376427482862333
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7054701546100589, 'temperature': 1.4865531931634668, 'do_sample': True, 'eta_cutoff': 0.00042453585974235123}
+                i: 29
+                bleu: 0.17990486952022325 
+                rouge: 0.36358871160803563
+                meteor: 0.38772260347574966
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5918630300249034, 'temperature': 1.6680717661016695, 'do_sample': True, 'epsilon_cutoff': 0.0006978287432014012} very cool
+                i: 30
+                bleu: 0.19521370094956 
+                rouge: 0.3917157794331454
+                meteor: 0.41401526368650343
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.40662397853450893, 'temperature': 2.7615428878154136, 'do_sample': True, 'eta_cutoff': 0.0016095319847720926}
+                i: 31
+                bleu: 0.17904065528181576 
+                rouge: 0.363356457131623
+                meteor: 0.39274884856354714
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7029505423525315, 'temperature': 1.6528496553872496, 'do_sample': True, 'epsilon_cutoff': 0.000633077266799158}
+                i: 32
+                bleu: 0.17068769965344366 
+                rouge: 0.3569133428117328
+                meteor: 0.3876051322388609
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3872027049612785, 'temperature': 1.7991823965566711, 'do_sample': True, 'eta_cutoff': 0.0009985993650941194}
+                i: 33
+                bleu: 0.18725058243515647 
+                rouge: 0.36415457706703735
+                meteor: 0.402149188194958
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.2785968178408153, 'temperature': 2.4244145304859774, 'do_sample': True, 'epsilon_cutoff': 0.00035562225320048}
+                i: 34
+                bleu: 0.18551172800776913 
+                rouge: 0.3875371494099054
+                meteor: 0.40009771074746237
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.49559979732507564, 'temperature': 1.5309536972083486, 'do_sample': True, 'eta_cutoff': 0.0006935279765604559}
+                i: 35
+                bleu: 0.18236931653395655 
+                rouge: 0.37135151034737157
+                meteor: 0.38084280167465967
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6355041705027852, 'temperature': 2.0863749258910054, 'do_sample': True, 'epsilon_cutoff': 0.0008713084004436083}
+                i: 36
+                bleu: 0.19226797054954778 
+                rouge: 0.3743533549681186
+                meteor: 0.40421255270140216
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7472350358816717, 'temperature': 1.8259298349448205, 'do_sample': True, 'eta_cutoff': 0.0006277515492271679}
+                i: 37
+                bleu: 0.1624838279111951 
+                rouge: 0.3374529742575284
+                meteor: 0.34918503280145746
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.4576912624103569, 'temperature': 2.5751849656697727, 'do_sample': True, 'epsilon_cutoff': 0.0008665197814844521}
+                i: 38
+                bleu: 0.1777100055170975 
+                rouge: 0.3510152163565523
+                meteor: 0.35565171165600257
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5415535450959335, 'temperature': 2.458123673364949, 'do_sample': True, 'eta_cutoff': 0.0016946831958272483}
+                i: 39
+                bleu: 0.20333040155739235 
+                rouge: 0.37435802176607524
+                meteor: 0.41518528716647557
+                
+                
+
+Best: {'renormalize_logits': True, 'typical_p': 0.5918630300249034, 'temperature': 1.6680717661016695, 'do_sample': True, 'epsilon_cutoff': 0.0006978287432014012}{'renormalize_logits': True, 'typical_p': 0.5425490061313314, 'temperature': 2.3014777730162006, 'do_sample': True, 'epsilon_cutoff': 0.0006616580256429863}
+                i: 0
+                bleu: 0.1989824105218899 
+                rouge: 0.3882186598809658
+                meteor: 0.41447493968820265
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.48418818216925386, 'temperature': 0.9960649478125071, 'do_sample': True, 'eta_cutoff': 0.0012344262123938055}
+                i: 1
+                bleu: 0.17452175382971194 
+                rouge: 0.3565787014829887
+                meteor: 0.3680553014314229
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7588914312615773, 'temperature': 1.9833795549565725, 'do_sample': True, 'top_p': 0.9726843599648843}
+                i: 2
+                bleu: 0.1551621022750807 
+                rouge: 0.3410751956723688
+                meteor: 0.359799297233766
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7205236088320834, 'temperature': 1.5757075254986896, 'do_sample': True, 'top_k': 43}
+                i: 3
+                bleu: 0.18783039238597984 
+                rouge: 0.36275718678126095
+                meteor: 0.39603885037222
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7104721236768914, 'temperature': 2.7813061797456853, 'do_sample': True, 'epsilon_cutoff': 0.0008215167241283519}
+                i: 4
+                bleu: 0.1647435125525843 
+                rouge: 0.3432159218881302
+                meteor: 0.35852664468276213
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6576514784523722, 'temperature': 0.9862652438140381, 'do_sample': True, 'eta_cutoff': 0.0013772019993746683}
+                i: 5
+                bleu: 0.18720061138340344 
+                rouge: 0.38347553100485754
+                meteor: 0.39439825421081326
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3383970540540744, 'temperature': 2.3485613789439954, 'do_sample': True, 'top_p': 0.26331501518513467}
+                i: 6
+                bleu: 0.19393621568262634 
+                rouge: 0.3825442508854108
+                meteor: 0.40110051649917416
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5245107460739473, 'temperature': 2.4112793856060684, 'do_sample': True, 'top_k': 8}
+                i: 7
+                bleu: 0.19958117378908527 
+                rouge: 0.37161716369346925
+                meteor: 0.38796933856109794
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3741569446512415, 'temperature': 1.9377948438012997, 'do_sample': True, 'epsilon_cutoff': 0.0006304208739487087}
+                i: 8
+                bleu: 0.16747911911125019 
+                rouge: 0.3453129443831563
+                meteor: 0.37055856135254694
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5950861608835154, 'temperature': 1.9042534896126724, 'do_sample': True, 'eta_cutoff': 0.0017936225005666384}
+                i: 9
+                bleu: 0.18583329023543407 
+                rouge: 0.3605196205878924
+                meteor: 0.3808242112253199
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5628877607455678, 'temperature': 2.647165262337626, 'do_sample': True, 'top_p': 0.891530729474708}
+                i: 10
+                bleu: 0.19035559660938567 
+                rouge: 0.3678342994874798
+                meteor: 0.37988313219544917
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.36648513676454675, 'temperature': 1.8592305087262564, 'do_sample': True, 'top_k': 37}
+                i: 11
+                bleu: 0.17031049521109923 
+                rouge: 0.34803023026100144
+                meteor: 0.35981630815216525
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7552638613950744, 'temperature': 2.2717861082549917, 'do_sample': True, 'epsilon_cutoff': 0.0008999203755743275}
+                i: 12
+                bleu: 0.18010764927596745 
+                rouge: 0.3748818774524726
+                meteor: 0.38296508643620975
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.4179430412785917, 'temperature': 1.9306512190991654, 'do_sample': True, 'eta_cutoff': 0.001606106024614555}
+                i: 13
+                bleu: 0.19725706059335005 
+                rouge: 0.3881723478139095
+                meteor: 0.3911033731985393
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6357662081045385, 'temperature': 2.0099084341831617, 'do_sample': True, 'top_p': 0.12496709200924094}
+                i: 14
+                bleu: 0.19393621568262634 
+                rouge: 0.3825442508854108
+                meteor: 0.40110051649917416
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5918630300249034, 'temperature': 1.6680717661016695, 'do_sample': True, 'top_k': 13}
+                i: 15
+                bleu: 0.17220292348938224 
+                rouge: 0.3519860807143754
+                meteor: 0.3877637097936326
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7029505423525315, 'temperature': 1.6528496553872496, 'do_sample': True, 'epsilon_cutoff': 0.000633077266799158}
+                i: 16
+                bleu: 0.16043628378386618 
+                rouge: 0.34079283990845466
+                meteor: 0.36287669017134744
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.2785968178408153, 'temperature': 2.4244145304859774, 'do_sample': True, 'eta_cutoff': 0.0004575963840680266}
+                i: 17
+                bleu: 0.17384469975845876 
+                rouge: 0.3579609682619631
+                meteor: 0.38236859113617033
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6355041705027852, 'temperature': 2.0863749258910054, 'do_sample': True, 'top_p': 0.9521806674060137}
+                i: 18
+                bleu: 0.18390116678486357 
+                rouge: 0.3784812545756969
+                meteor: 0.4005807652614648
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.4576912624103569, 'temperature': 2.5751849656697727, 'do_sample': True, 'top_k': 5}
+                i: 19
+                bleu: 0.18226618845264286 
+                rouge: 0.36661355160337483
+                meteor: 0.3823464234192617
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.4695445788209316, 'temperature': 1.051821742829299, 'do_sample': True, 'epsilon_cutoff': 0.0007731209264920517}
+                i: 20
+                bleu: 0.19677539931902588 
+                rouge: 0.3732432427657466
+                meteor: 0.3928488110383724
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.4523977528186852, 'temperature': 2.7475443939786723, 'do_sample': True, 'eta_cutoff': 0.0015443897010793887}
+                i: 21
+                bleu: 0.1815546718761326 
+                rouge: 0.37289880900059996
+                meteor: 0.4081114990784855
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6905110187739747, 'temperature': 1.1454385875422959, 'do_sample': True, 'top_p': 0.7446404816795178}
+                i: 22
+                bleu: 0.1825609829186625 
+                rouge: 0.3591130226723047
+                meteor: 0.37915999439774084
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6641237582856068, 'temperature': 2.149290162361017, 'do_sample': True, 'top_k': 20}
+                i: 23
+                bleu: 0.17106296663223874 
+                rouge: 0.35681904043209267
+                meteor: 0.39287647974230244
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.2676966220638834, 'temperature': 2.6355356889762107, 'do_sample': True, 'epsilon_cutoff': 0.000470916700484351}
+                i: 24
+                bleu: 0.18585471320324873 
+                rouge: 0.38409452284014106
+                meteor: 0.395351636465509
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.514505326507154, 'temperature': 1.3789349447658332, 'do_sample': True, 'eta_cutoff': 0.0007343056703872594}
+                i: 25
+                bleu: 0.17841819108899074 
+                rouge: 0.352862975712783
+                meteor: 0.39881492854649153
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6844421793447151, 'temperature': 0.9964281074823919, 'do_sample': True, 'top_p': 0.21077063993129397}
+                i: 26
+                bleu: 0.1940384315790542 
+                rouge: 0.38294084977800846
+                meteor: 0.3999693909822621
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.4760087016535979, 'temperature': 1.6349110435236955, 'do_sample': True, 'top_k': 24}
+                i: 27
+                bleu: 0.18989454810526554 
+                rouge: 0.37796325536688624
+                meteor: 0.384952849664143
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7677693035080282, 'temperature': 1.5784204989528812, 'do_sample': True, 'epsilon_cutoff': 0.0007042209748014826}
+                i: 28
+                bleu: 0.16847808902823733 
+                rouge: 0.3442213919409659
+                meteor: 0.3663757968859059
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.44751728740150937, 'temperature': 1.8015128617568206, 'do_sample': True, 'eta_cutoff': 0.0011433025929052422}
+                i: 29
+                bleu: 0.18649060059215664 
+                rouge: 0.35790413031603796
+                meteor: 0.37137614010790815
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.41429007886228686, 'temperature': 1.3010239978455957, 'do_sample': True, 'top_p': 0.32318267696821945}
+                i: 30
+                bleu: 0.19393621568262634 
+                rouge: 0.3825442508854108
+                meteor: 0.40110051649917416
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.2761101821950747, 'temperature': 1.873295642391744, 'do_sample': True, 'top_k': 12}
+                i: 31
+                bleu: 0.17874616368211102 
+                rouge: 0.3563314120867568
+                meteor: 0.3818382036838139
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.45475580689954626, 'temperature': 2.021004117836846, 'do_sample': True, 'epsilon_cutoff': 0.0006573555075942731}
+                i: 32
+                bleu: 0.1820269956843783 
+                rouge: 0.3620339894232072
+                meteor: 0.37702760809762625
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3384615795944189, 'temperature': 1.2001795720736765, 'do_sample': True, 'eta_cutoff': 0.0009165652925007088}
+                i: 33
+                bleu: 0.15778118275774833 
+                rouge: 0.33316261538429776
+                meteor: 0.3395111400774585
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3928212544578036, 'temperature': 1.029085191639655, 'do_sample': True, 'top_p': 0.5820303421266043}
+                i: 34
+                bleu: 0.1872880724943321 
+                rouge: 0.37169318505322224
+                meteor: 0.38957651348553773
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7384326618597767, 'temperature': 2.5992727545953347, 'do_sample': True, 'top_k': 1}
+                i: 35
+                bleu: 0.19393621568262634 
+                rouge: 0.3825442508854108
+                meteor: 0.40110051649917416
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3138643880755561, 'temperature': 2.2430563676369584, 'do_sample': True, 'epsilon_cutoff': 0.0006209775704346523}
+                i: 36
+                bleu: 0.1698637795866286 
+                rouge: 0.36099214729920204
+                meteor: 0.3812988038492598
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.36324776042368556, 'temperature': 2.4328370878252352, 'do_sample': True, 'eta_cutoff': 0.001762913306702953}
+                i: 37
+                bleu: 0.17362051180539356 
+                rouge: 0.34738356782153035
+                meteor: 0.37759208543510003
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.4194405395737163, 'temperature': 2.4980631458607743, 'do_sample': True, 'top_p': 0.3347526245715251}
+                i: 38
+                bleu: 0.19421076614010208 
+                rouge: 0.3832629042120805
+                meteor: 0.4003224210859168
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.28357298895029864, 'temperature': 2.236655621242329, 'do_sample': True, 'top_k': 42}
+                i: 39
+                bleu: 0.17889153466378213 
+                rouge: 0.3614642874673687
+                meteor: 0.38870908526025755
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5286348376151528, 'temperature': 2.2715859526805455, 'do_sample': True, 'epsilon_cutoff': 0.00046192138264377014}
+                i: 40
+                bleu: 0.18400180022731785 
+                rouge: 0.3675681077517139
+                meteor: 0.3914471597786303
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.4010225984917867, 'temperature': 2.1576178554234504, 'do_sample': True, 'eta_cutoff': 0.0013606286609701456}
+                i: 41
+                bleu: 0.19588254496550736 
+                rouge: 0.36881410240362994
+                meteor: 0.38549626395957487
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.28246585049905637, 'temperature': 1.6481738592373247, 'do_sample': True, 'top_p': 0.24231826749140473}
+                i: 42
+                bleu: 0.19393621568262634 
+                rouge: 0.3825442508854108
+                meteor: 0.40110051649917416
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3634570902881237, 'temperature': 1.3391814539221567, 'do_sample': True, 'top_k': 36}
+                i: 43
+                bleu: 0.18706845421181284 
+                rouge: 0.3680716295929746
+                meteor: 0.38155271642016425
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5936257294362519, 'temperature': 1.907466182363073, 'do_sample': True, 'epsilon_cutoff': 0.0006170048280913436}
+                i: 44
+                bleu: 0.17971166191521398 
+                rouge: 0.3801250325371673
+                meteor: 0.40437490709590396
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.33782355505885764, 'temperature': 1.2456074520822709, 'do_sample': True, 'eta_cutoff': 0.0019753348941113596}
+                i: 45
+                bleu: 0.18084817012151172 
+                rouge: 0.37582534886018093
+                meteor: 0.3803853402998227
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7169130496233379, 'temperature': 2.4404771114564556, 'do_sample': True, 'top_p': 0.4247281314751076}
+                i: 46
+                bleu: 0.18897039321937933 
+                rouge: 0.37017855155382057
+                meteor: 0.3944261801076138
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6307856868166091, 'temperature': 2.0969940949317976, 'do_sample': True, 'top_k': 4}
+                i: 47
+                bleu: 0.18035207264478584 
+                rouge: 0.3569876306975514
+                meteor: 0.37238741406815784
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3697060153013066, 'temperature': 2.6694920712977135, 'do_sample': True, 'epsilon_cutoff': 0.0007903412238980741}
+                i: 48
+                bleu: 0.16626085592343307 
+                rouge: 0.33395321016424556
+                meteor: 0.34690461293035263
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.6374492397594771, 'temperature': 2.021176177667875, 'do_sample': True, 'eta_cutoff': 0.0008120806130849881}
+                i: 49
+                bleu: 0.17043065350365622 
+                rouge: 0.3501945022970503
+                meteor: 0.38190265809703994
+                
+                
+
+Best: {'renormalize_logits': True, 'typical_p': 0.5425490061313314, 'temperature': 2.3014777730162006, 'do_sample': True, 'epsilon_cutoff': 0.0006616580256429863}{'renormalize_logits': True, 'do_sample': False}
+                i: 0
+                bleu: 0.0735353801890101 
+                rouge: 0.35930431031274124
+                meteor: 0.2939782556276605
+                
+                
+
+{'renormalize_logits': True, 'top_k': 39, 'temperature': 1.9943696218777371, 'do_sample': True}
+                i: 1
+                bleu: 0.08473147652805732 
+                rouge: 0.2378407819851086
+                meteor: 0.22697040677516564
+                
+                
+
+{'renormalize_logits': True, 'top_p': 0.43599490214200376, 'temperature': 0.051852463655782666, 'do_sample': True}
+                i: 2
+                bleu: 0.07038490245813424 
+                rouge: 0.23066449744810752
+                meteor: 0.22051805856152493
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5507979025745755, 'temperature': 1.4162956452362097, 'do_sample': True}
+                i: 3
+                bleu: 0.14575705284933937 
+                rouge: 0.33765995638295754
+                meteor: 0.32051355594545367
+                
+                
+
+{'renormalize_logits': True, 'do_sample': False}
+                i: 4
+                bleu: 0.0735353801890101 
+                rouge: 0.35930431031274124
+                meteor: 0.2939782556276605
+                
+                
+
+{'renormalize_logits': True, 'top_k': 37, 'temperature': 0.11036024795073707, 'do_sample': True}
+                i: 5
+                bleu: 0.0721548562966475 
+                rouge: 0.27834764695749803
+                meteor: 0.23272702399454118
+                
+                
+
+{'renormalize_logits': True, 'top_p': 0.8928601514360016, 'temperature': 0.6639596106023544, 'do_sample': True}
+                i: 6
+                bleu: 0.08743324399753377 
+                rouge: 0.2779721905618674
+                meteor: 0.26689484051036344
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.07630828937395717, 'temperature': 1.5598375844802292, 'do_sample': True}
+                i: 7
+                bleu: 0.06304783809772169 
+                rouge: 0.26508547061148086
+                meteor: 0.2306394683198291
+                
+                
+
+{'renormalize_logits': True, 'do_sample': False}
+                i: 8
+                bleu: 0.0735353801890101 
+                rouge: 0.35930431031274124
+                meteor: 0.2939782556276605
+                
+                
+
+{'renormalize_logits': True, 'top_k': 30, 'temperature': 1.0037491842974775, 'do_sample': True}
+                i: 9
+                bleu: 0.05904689969723891 
+                rouge: 0.25761215793219316
+                meteor: 0.21418911056140047
+                
+                
+

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="908" height="756">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text id="svg_26" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="39" y="386.50711" x="230.00602" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#c93030">E</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="39" id="svg_25" y="386.95242" x="838.38102" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#c93030">E</text>
+  <text id="svg_27" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="39" y="388.50711" x="106.00602" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#c93030">E</text>
+  <text id="svg_28" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="39" y="228.50711" x="730.00602" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#c93030">E</text>
+  <text id="svg_29" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="39" y="386.50711" x="346.00602" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#c93030">E</text>
+  <text id="svg_30" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="39" y="384.50711" x="588.00602" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#c93030">E</text>
+  <text id="svg_31" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="39" y="676.50711" x="230.00602" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#c93030">E</text>
+  <text id="svg_32" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="39" y="386.50711" x="472.00602" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#c93030">E</text>
+  <text id="svg_33" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="39" y="158.50711" x="354.00602" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#c93030">E</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="a180cb82f21f44059a1c5d6f5574995f-oa-1" class="qshape">
+   <rect stroke="#2D2D2D" height="42.85714" width="78.57144" y="172.57147" x="20.57146" fill="#FF7E7E" class="qshape"/>
+   <rect height="38.09524" width="88.09524" y="174.95241" x="144.38099" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="52.38095" width="90.47619" y="172.57146" x="268.19052" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="47.61905" width="80.95238" y="172.57146" x="394.381" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="52.38095" width="83.33334" y="172.57146" x="499.14291" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="47.61905" width="92.85715" y="410.66671" x="13.42861" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="45.2381" width="100" y="410.66671" x="130.09528" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="47.61905" width="102.38096" y="410.66671" x="256.28576" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="47.61905" width="95.2381" y="408.28575" x="375.33338" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="57.14286" width="111.90477" y="403.52385" x="489.6191" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  </g>
+  
+  
+  
+ </g>
+</svg>

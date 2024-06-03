@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="878" height="696">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="829dc1fa72984ba5a47e39a8bd4aa4c8-ao-1" y="129.00003" x="681.09089" stroke-width="0" fill="#000000">Uppgift?</text>
+  <line id="829dc1fa72984ba5a47e39a8bd4aa4c8-ao-2" y2="144.90912" x2="762.90908" y1="92.63639" x1="760.63635" stroke-width="3" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <line id="829dc1fa72984ba5a47e39a8bd4aa4c8-ao-3" y2="140.36366" x2="765.1818" y1="126.7273" x1="783.36362" stroke-width="3" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <line id="829dc1fa72984ba5a47e39a8bd4aa4c8-ao-4" y2="142.63639" x2="760.63635" y1="126.7273" x1="740.1818" stroke-width="3" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="829dc1fa72984ba5a47e39a8bd4aa4c8-ao-5" y="256.27276" x="119.72724" stroke-width="0" fill="#000000">Hur kallas de två här?</text>
+  <g id="829dc1fa72984ba5a47e39a8bd4aa4c8-ao-6">
+   <rect height="59.09091" width="120.45455" y="190.36366" x="706.09089" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="40.90909" width="125" y="308.54549" x="710.63635" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="829dc1fa72984ba5a47e39a8bd4aa4c8-ao-7">
+   <rect height="90.90909" width="218.18183" y="135.81821" x="276.54542" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="38.63636" width="140.9091" y="304.00003" x="319.72724" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <rect id="829dc1fa72984ba5a47e39a8bd4aa4c8-ao-8" height="177.27273" width="181.81819" y="442.6364" x="296.99997" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="829dc1fa72984ba5a47e39a8bd4aa4c8-ao-9" height="109.09091" width="118.18182" y="535.81822" x="90.18178" stroke="#2D2D2D" fill="#FFEBA2"/>
+  
+ </g>
+</svg>

@@ -1,0 +1,20 @@
+{'renormalize_logits': True, 'do_sample': False}
+Average time per iteration: 18.213482878424905
+{'bleu': 0.19393621568262634, 'precisions': [0.36779266161910307, 0.2160023446658851, 0.15221238938053097, 0.1169833729216152], 'brevity_penalty': 1.0, 'length_ratio': 1.1031159653067781, 'translation_length': 3434, 'reference_length': 3113}
+{'rouge1': 0.44786795347841024, 'rouge2': 0.31953427874826484, 'rougeL': 0.3808419366603015, 'rougeLsum': 0.44142636476952807}
+{'meteor': 0.40110051649917416}
+bert score: 0.7403734922409058
+------------------------------------
+Average time per iteration: 16.633125792850148
+{'renormalize_logits': True, 'top_k': 40, 'temperature': 1.5930859737204657, 'do_sample': True}
+{'bleu': 0.17141262877997837, 'precisions': [0.34689134224288204, 0.18538011695906434, 0.13213655091230136, 0.10159952606635071], 'brevity_penalty': 1.0, 'length_ratio': 1.105685833601028, 'translation_length': 3442, 'reference_length': 3113}
+{'rouge1': 0.42025074430144954, 'rouge2': 0.282903831891314, 'rougeL': 0.349100100404783, 'rougeLsum': 0.4170387852143642}
+{'meteor': 0.3745826516697708}
+bert score: 0.7258037193254991
+------------------------------------
+Average time per iteration: 16.806409001350403
+{'renormalize_logits': True, 'top_p': 0.3745401188473625, 'temperature': 1.9014286128198323, 'do_sample': True}
+{'bleu': 0.15288242371285804, 'precisions': [0.33386941138629783, 0.17071590540978296, 0.11451876019575856, 0.08412750575090372], 'brevity_penalty': 0.998714239971525, 'length_ratio': 0.9987150658528751, 'translation_length': 3109, 'reference_length': 3113}
+{'rouge1': 0.4112113678221788, 'rouge2': 0.2660359166662194, 'rougeL': 0.33622081210434634, 'rougeLsum': 0.4077581185528255}
+{'meteor': 0.3400144983688133}
+bert score: 0.7237708243456754

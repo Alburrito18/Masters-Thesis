@@ -1,0 +1,72 @@
+Best: {'renormalize_logits': True, 'typical_p': 0.5881308010772742, 'temperature': 1.795427455818836, 'do_sample': True}{'renormalize_logits': True, 'typical_p': 0.6168395262454404, 'temperature': 2.181784352404136, 'do_sample': True, 'epsilon_cutoff': 0.0006616580256429863}
+                i: 0
+                bleu: 0.22460302366859264 
+                rouge: 0.4348120546538291
+                meteor: 0.46564750397534777
+                bertscore: 0.7700329720973969
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5504874316010215, 'temperature': 0.9442623963591382, 'do_sample': True, 'eta_cutoff': 0.0012344262123938055}
+                i: 1
+                bleu: 0.2271864008509921 
+                rouge: 0.41895732323843726
+                meteor: 0.43552576238210333
+                bertscore: 0.767183162949302
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.8628054344233782, 'temperature': 1.8802295327890042, 'do_sample': True, 'top_p': 0.9726843599648843}
+                i: 2
+                bleu: 0.17931483015829563 
+                rouge: 0.3675461533445875
+                meteor: 0.4014139736049953
+                bertscore: 0.747159025885842
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.8191839566526691, 'temperature': 1.493759385124543, 'do_sample': True, 'top_k': 43}
+                i: 3
+                bleu: 0.21075877468360665 
+                rouge: 0.4160574470979831
+                meteor: 0.4236688346518116
+                bertscore: 0.7654696675864133
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.807756134887033, 'temperature': 2.6366582260150926, 'do_sample': True, 'epsilon_cutoff': 0.0008215167241283519}
+                i: 4
+                bleu: 0.21059454226262087 
+                rouge: 0.4104900686033368
+                meteor: 0.43098004185455335
+                bertscore: 0.7586027627641504
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.7477028283505468, 'temperature': 0.9349723475510495, 'do_sample': True, 'eta_cutoff': 0.0013772019993746683}
+                i: 5
+                bleu: 0.21281877075958183 
+                rouge: 0.4039757994821584
+                meteor: 0.43338409315383575
+                bertscore: 0.759411099282178
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.3847333165237434, 'temperature': 2.2264192717035725, 'do_sample': True, 'top_p': 0.26331501518513467}
+                i: 6
+                bleu: 0.2064545603297836 
+                rouge: 0.39070729789530123
+                meteor: 0.4276820245247706
+                bertscore: 0.7554848221215335
+                
+                
+
+{'renormalize_logits': True, 'typical_p': 0.5963313110200024, 'temperature': 2.285875490292187, 'do_sample': True, 'top_k': 8}
+                i: 7
+                bleu: 0.21058156889912963 
+                rouge: 0.408892954394891
+                meteor: 0.4343765782769728
+                bertscore: 0.761119544506073
+                
+                
+

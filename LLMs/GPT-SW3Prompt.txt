@@ -1,0 +1,13 @@
+f"""<|endoftext|><s>
+        User:
+        Du är en hjälpsam medicinsk assistent som hjälper läkare och sjuksköterskor genom att sammanfatta information om patienter.
+        Svara med en kort löpande text.
+        Nedan ges en patientanamnes:
+        <anamnes>
+        {row['metadata'].iloc[0]}
+        {row['text'].iloc[0]}
+        </anamnes>
+        {r['instruction']}
+        <s>
+        Bot:
+        """

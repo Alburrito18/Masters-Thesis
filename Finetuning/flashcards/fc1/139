@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="514" height="682">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <line id="svg_3" y2="371.19146" x2="78.27661" y1="371.19146" x1="274.02129" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_4" y="377.57444" x="29.34044" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">jejunum</text>
+  <line id="svg_5" y2="511.61699" x2="57.00002" y1="513.74465" x1="261.25534" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#2D2D2D" fill="#000000"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_6" y="515.87231" x="20.8298" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">ileum</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="2f71daad607a4128b18dbed18e9d7c0c-oa-1">
+   <rect stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#2D2D2D" height="59.57447" width="463.82978" y="15.87232" x="37.85108" fill="#ffd4aa"/>
+   <rect height="42.55319" width="95.74468" y="358.4255" x="-19.59573" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ffd4aa"/>
+   <rect height="27.65957" width="65.95745" y="494.59572" x="-17.46807" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ffd4aa"/>
+  </g>
+ </g>
+</svg>

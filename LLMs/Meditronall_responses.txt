@@ -1,0 +1,4554 @@
+
+Gold standard:
+*Sjukdomshistoria*:
+Hypertoni, Hyperlipidemi, tidigare rökare (slutade för 10 år sedan). Fadern hade hjärt-kärlsjukdomar inklusive Abdominalt Aortaaneurysm
+
+*Sökorsaker*:
+Bukaortaneurysm på 68 mm
+
+*Åtgärder*:
+ABI
+Svar: 
+
+ Sjukdoms- och riskfaktohistorik:
+
+ Hypertoni
+ Hyperlipidemia
+ Tidigare rökning
+ Fadern har hjärt/kärlsjuka
+
+ Sökorsaker:
+
+ Bifynd under besök på akom
+
+ Åtgärd:
+
+ Remiss till karkirurgen
+
+ Fortsatt hantering
+
+ Hyperlipidmi
+ Hypertonin
+
+ ### Response (after 10 edits):
+ Självomsorg:
+
+ Rolf Ralare
+
+ Sjklkdjf:
+
+ 68
+
+ Kön:
+
+ Man
+
+ Bakgrund:
+
+ Pensionerad ingenjör
+
+ Medicinsk historik:
+ 
+ Hypertonia
+ Hyperlipedemia
+ Tidig rökare
+ Fadren har hjert-kärlproblem
+
+ Mediciner:
+
+ Metoprolol
+ Atorvastin
+
+ Allergier:
+
+ Ingen kända
+
+ Söksorsaker: 
+
+ Bifynd under besökt på AKO
+
+ Åter:
+
+ remiss till käkirkurgen
+ Fortsätt hantering 
+
+ Hyperliperdemi
+ Hypertonie
+
+ ### Hint 1:
+ Det här är en klinisk anamnes.
+
+ Det hittar du i klinisk medicin.
+
+ Den hittar man i klinik.
+
+ Klinik. Klinisk. Klinik!
+
+ Det är en anamnes!
+
+ Anamnes! Anamnes. Anamnes? Anamnes, anamnes, ANAMNES!
+
+ ### Answer:
+ Sökerorsaker: Bifynder under besöket på AKK
+
+ Sjökurs:
+
+ Patienten har hypertoni, hyperlipedemia, tidigare var han rökare.
+
+ Faddern har hjärtsjukdom.
+
+ Medicering:
+
+ Atorvestin 20mg
+ Metoprorol 150mg.
+
+ Allergi:
+
+ ingen kända.
+
+ Sokurs:
+ 69mm bukaortaaneursym.
+
+ Remis till karkirkurgen.
+
+ Forttsatt hanterning av hypertonin, hyperlipidin.
+
+Gold standard:
+*Sjukdomshistoria*:
+Typ 2 Diabetes Mellitus, Fetma (BMI: 32), Rökare, Tablettbehandlad hyperlipidemi, knäartros
+
+*Sökorsaker*:
+Smärta i nedre extremiteterna.
+Gångsträcka: 50 m.
+Fördröjd kapillär återfyllnad.
+ABI 0.6 Vä
+
+*Åtgärder*:
+ABI
+Distalstatus
+
+Svar: 
+
+ Sjukdoms- och riskfaktohistorik:
+ Typ 2 diabetes mellitus
+ Fetma
+ Rökare
+ Hyperlipidemi
+ Knäartros
+
+ Sökorsaker:
+ Smärta i vadernas
+
+ Åtgärd:
+ Utvärdera smärta
+
+ ### Response (after):
+ Självkontroll:
+ Svarade med en punktorad list.
+
+ Svarat i en punktoradslist.
+
+ Listan innehöll information om:
+
+1. Sjukdomen/riskfaktor
+2. Sökorsak
+3. Åtgäder
+
+ Listans element innehöll:
+
+- Information om:
+- Sjukom/riskfactor
+- Sökorsaken
+- Åtgären
+
+ Listens element innehåller:
+
+ Information om: 
+
+1) Sjukomen/risken
+2) Sökorsake
+3) Åtgäre
+
+ Listen innehöll en punktorade list.
+ Listan var en punktoradeslist.
+ Listans innehöll punktoradlist.
+ Punktoradlist innehöll listan.
+
+ Informationen i listan var:
+
+ 1. Information om: Sjukedom/risk
+2. Information om sökorsak.
+3. Information om åtgära.
+
+ Informations om:
+ 1) Sjuka/risk.
+2) sökorsake.
+3) åtgäre.
+
+ Ingen information om: 1) sjuka/ risk. 2) söksorsake. 3) ågära
+
+ Information:
+ 
+1. om: Sjuka / risk.
+2. om sökosake.
+2 om åtgar.
+
+ Om:
+
+ Informaion om:
+1. sjuka / riske.
+2 söksorake.
+
+3. åtgara.
+
+1 Information om: sjuka.
+2 Information om: risk.
+3 Information om:söksorke.
+4 Information om: åtgare.
+
+ 
+
+ Informationom:
+
+ Sjokom/riske.
+ Söksorak.
+ Åtgar.
+Gold standard:
+*Sjukdomshistoria*:
+PCI-behandlad hjärtinfarkt 2011, Angina Pectoris, Hypertoni, djup ven trombos (DVT) 2011
+
+*Sökorsaker*:
+Obehag i båda benen.
+Smärta vid gång och ihållande värk, svullnad och tyngd.
+Sval hud bilateralt.
+Åderbråck.
+Ödem i anklarna.
+Pigmentförändringar runt vaderna.
+Inga sår (läkta)
+Svårt att hitta pulsar
+
+*Åtgärder*:
+ABI
+Distalstatus
+
+Svar: 
+
+ Sjukdoms- och riskfaktohistorik:
+
+ PCI-behandlad hjärtsjukdom 2001, Anginapectoris, hypertoni, DVT 2021.
+
+ Sökorsaker:
+
+ Remitterad från vårdcentrum. Beskrivs progressivt smärta i både benen, som beskrivits som en kombitation av smälta vid gående, beständig värk, inflammation och känt av tyngden. Symptom har gradvis blivit sämre under det senast året.
+
+ Vitalparametr:
+
+ Blodtrycks: 140/95 mmHg
+
+ Hjärtfrkvens:
+
+ Andningsfrkvens 17/minut
+
+ Temperatur 36.9°C
+
+ Sval hutemperatur bilateral i benen
+
+ Åderbråk närvarande
+
+ Pigmentförandringar i skinnet runt vadena
+
+ Ingen aktiva säar men tecken av läkta såar
+
+ Personal har svårare att hitta pulser med Doppel-ultraljod.
+
+
+
+ Undersökningar:
+
+ Dopplerultraljud
+
+ Behandling:
+
+ Läkare ska undersöka patienten.
+
+ Patienten ska undersökas av en läkare.
+Gold standard:
+*Sjukdomshistoria*:
+Icke-rökare. I övrigt frisk. Tillfälligt insatt på Eliquis 
+
+*Sökorsaker*:
+Arteriellt Thoracic Outlet Syndrome (TOS). Röntgen: extra revben.
+Undersökning och beslut om åtgärd
+
+*Åtgärder*:
+Blodtryck bilateralt
+
+Svar: 
+
+ Sjukdoms- och riskfaktohistorik:
+
+ Arteriell Thoracic outlet syndrome (T.O.S)
+
+ Sökorsaker:
+
+ Smärta i höger arm
+
+ Domningar i höger hand
+
+ Trötthet kring höger arm 
+
+ Bleka fingrar
+
+ Åtgärd:
+
+ Ultraljud av axel
+
+ Röntgen av axel 
+
+ Remittering till specialist
+
+ ### Follow-up:
+
+ Detta är en bra svar. Det är bra att du har tagit bort onödig text. Det är dock viktig att du alltid svarar på alla frågor i mallen. Detta gäller även om du inte har något att svara. Då ska du skriva "inget att rapportera" (IAR).
+
+ Det är viktigast att du svarar i den ordning som mallen har. Detta är viktigt för att du ska bli en bra medicinsk sekreterare.
+
+ Det vore bra om du kunde skriva en kort sammanfattning av vad som händer i anamnesen. Detta kan du göra i en egen rubrik.
+
+ Ditt svar:
+ Sök- och orsaker:
+ Smärtor i höger axel
+ Domningar
+ Trötte armar
+
+ Själv- och risk-faktorer:
+ Arterial thoracic outleth syndrome (t.o.s)
+
+ Återkommande blodpropper
+
+ Planerade undersökning:
+ Ultralyder av axel.
+
+ Planerad behandling:
+ Remitterad till specialist.
+
+ Sammanfattning:
+ En 25 år gammal kvinna som har smärtor i sin höger arm. Hon har även domningar i sina fingrar. Hon har tidigare haft blodproppen. Hon har en arterial thorax outlet syndrom. Hon har blivit remitterad till en specialist.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • 63 år
+    • Man
+    • Hyperlipidemi
+    • Hypertension
+    • Rökare
+    • Patienten står ej på blodförtunnande.
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Falltrauma 23-12-24
+    • Akutmottagningen SKaS: 24-01-23
+    • Nedsatt kraft vänster sida. Tilltagande huvudvärk. Förvirrad, Vaken (RLS 1). Ej orienterad i tid och rum. Något sluddrig i talet. Lätt facialispares. Uppegående. Haltar vänster. Dålig balans
+    • CT: Hypodenst område. Kroniskt subduralhematom (höger). Komprimerad lateralventrikel. Begynnande överskjutning av medellinjen 
+
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Operation/utrymning
+    • Blodprov med Hb, CRP, LPK, elstatus, PK och APTT innan överflytt
+    • Överflytt 24-01-24
+    • Inläggning för observation
+    • RLS kontroller varannan timme
+    • CT hjärna vid klinisk försämring och kontakt NK jour
+    • Fastande från midnatt
+    • Hibiscrub x 2
+Svar: 
+
+ Sjukdoms- och riskfaktohistoria:
+
+ Hyperlipidemi
+ Hypertension
+ Rökare
+
+Sökorsak:
+
+ Blir i eganskap av neujour kontaktat av akutljkare på SKaS. Fick information att det ror sig om en man som halkade i isen och fick en hjäna.
+
+Sjukvårdshistoria:
+ 
+ Patienten söker vård på SKa.
+
+Vårdplan:
+
+ Patient ska ligga in för observation.
+
+Patienten ska ha Hibiscreb x 2
+
+Blodprov med:
+
+ Hb
+
+ Infektionsvarden
+
+ Elstatus
+
+ Pk
+
+ Aptt
+
+Patienet står inte på blodforstunnande.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • Hypertoni (Tabl Losartan 100 mg 1 x 1)
+    • Hyperlipidemi (Tabl Simvastatin 40 mg 1 x 1) 
+    • Appendektomerad 2013
+    • Diskbråck lumbalt 2015 (konservativt)
+    • Allergier: Inga kända 
+    • Änkeman
+    • Rökare: Ja 
+    • Alkohol: Sparsamt  
+    • Övriga läkemedel: 
+    • Tabl Alvedon 500 mg 1-2 vid behov
+    • Tabl Calcichew D3 500 mg/400 IE 1 x 1 
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Inskrivningsorsak: Kronisk subduralhematom höger relaterat till falltrauma 23-12-24.
+    • Patientens upplevelse: 
+        ◦ Inga symptom under januari
+        ◦ Smygande nedsatt kraft och styrsel i vänster sida
+        ◦ Fumlig
+        ◦ Tappat glas med vä hand
+        ◦ Nedsatt balans
+        ◦ Tilltagande och tryckande huvudvärk frontalt och höger. VAS 6-7
+        ◦ Nekar infektionssymptom
+        ◦ Inga kramper
+    • Anhörigas upplevelse: 
+        ◦ Annorlunda i kontakten
+        ◦ Förvirrad
+        ◦ Ej orienterad i tid och rum
+    • Läkares bedömning/fynd: 
+        ◦ Vaken (RLS 1)
+        ◦ Följer uppmaningar
+        ◦ Ej orienterad i tid och rum 
+        ◦ Lätt dysatri
+        ◦ Diskret fascialispares (vä)
+        ◦ Nedsatt kraft kraftgrad 4 till 4- (vänster arm och ben jmf med höger)
+        ◦ Diskret nedsatt sensorisk vänster jmf med höger
+        ◦ Normal koordination
+        ◦ Ej testat reflexer
+        ◦ Pos rhombergs test där patienten faller bakåt
+        ◦ Släpar på vänster ben vid gång
+        ◦ Regelbunden rytm med perifer puls utan blåsljud 
+        ◦ Vesikulär respiration bilateralt utan biljud
+
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Operationsindikation
+        ◦ Patienten informerad
+        ◦ Patienten accepterar
+        ◦ Patientens son (Johan) informerad
+        ◦ Fastande
+        ◦ Ej fått en tid för operation
+        ◦ RLS kontroller: 2 ggr/pass
+        ◦ Vid klinisk försämring: NK jour
+    • Daganteckning 24-01-24. 21:32:
+        ◦ Försämrad kliniskt
+        ◦ Tröttare
+        ◦ Följer ej lika tydligt uppmaningar som tidigare 
+        ◦ RLS 2-3
+        ◦ Ytterligare svaghet vä sida jmf med höger 
+        ◦ Stabila vitalparametrar
+        ◦ CT: Ytterligare masseffekt och ny utslätade fåror
+        ◦ Koordinator Op 5 kontaktad 
+        ◦ Operarationsanmälan Orbit 
+        ◦ Kontaktar son (Johan). Informerar om klinisk försämring och planerad operation
+        ◦ Sannolikt operation
+Svar: 
+
+ Sjukdoms- och riskfaktohistorik:
+
+ Hypertoni
+ Hyperlipidemi
+ Diskbråck
+
+Sökorsak:
+
+Ramlade på is, slog i huvudet
+
+Fallet skedde under juletiden
+
+Väntade med att söka vård
+
+Vid besöket i vården klagade patienten över huvudvänk
+
+Vad patienten känner:
+
+Fumlig
+
+Nedsatt kroppskontroll
+
+Nedstämd
+
+Vilse
+
+Vem patienten konsulterade:
+
+Läkare
+
+Vårdplats:
+
+Sjukhus
+
+Vardag:
+
+24-jan-24
+
+Vecka:
+
+Vi
+
+Månad:
+
+Jan
+
+År:
+
+1924
+ 
+
+Vanliga ord:
+
+Tablettbehandlat
+
+Tabletter
+
+Lekar
+
+Sparsamt
+
+Vas
+
+Vak
+
+Vaksam
+
+Vakt
+
+Vatten
+
+Vax
+
+Ved
+
+Veder
+
+Veg
+
+Vel
+
+Ventil
+
+Verk
+
+Vesikular
+
+Vet
+
+Vett
+
+Veteran
+
+Vex
+
+Via
+
+Vibrerar
+
+Vis
+
+Viss
+
+Vit
+
+Vital
+
+Vitt
+
+Vita
+
+Vits
+
+Viv
+
+Vivid
+
+Vo
+
+Vok
+
+Vokal
+
+Volk
+
+Von
+
+Voy
+
+Vox
+
+Vul
+
+Vult
+
+Vun
+
+Vur
+
+Vy
+
+Vyt
+
+Väl
+
+Vän
+
+Värd
+
+Var
+
+Varm
+
+Varg
+
+Vart
+
+Vass
+
+Vast
+
+Vat
+
+Vatt
+
+Vau
+
+Vav
+
+Ven
+
+Verd
+
+Vera
+
+Verm
+
+Vest
+
+Vess
+
+Vets
+
+Vin
+
+Vir
+
+Vis
+
+Vist
+
+Vito
+
+Viva
+
+Vix
+
+Viz
+
+Vob
+
+Voc
+
+Vod
+
+Vog
+
+Vom
+
+Vot
+
+Vow
+
+Voz
+
+Vr
+
+Vs
+
+Vt
+
+Vu
+
+Vv
+
+Vx
+
+Vz
+
+Vå
+
+Vö
+
+Vȯ
+
+Væ
+
+Vø
+
+Vü
+
+Vÿ
+
+Vá
+
+Vâ
+
+Vǎ
+
+Vě
+
+Vô
+
+Vú
+
+Vý
+
+Và
+
+Vé
+
+Vë
+
+Vï
+
+Vò
+
+Vó
+
+Vù
+
+Vů
+
+Vű
+
+Vỳ
+
+Vā
+
+Vē
+
+Vī
+
+Vō
+
+Vū
+
+Vỹ
+
+Va
+
+Vb
+
+Vc
+
+Vd
+
+De
+
+Vg
+
+Vh
+
+Vj
+
+Vk
+
+Dl
+
+Vl
+
+Dm
+
+Vm
+
+Dn
+
+Vn
+
+Do
+
+Vp
+
+Dq
+
+Vq
+
+Dr
+
+Vra
+
+Vrb
+
+Vsc
+
+Vtd
+
+Vte
+
+Vth
+
+Vti
+
+Vto
+
+Vtr
+
+Vts
+
+Vtt
+
+Vtu
+
+Vtv
+
+Vtw
+
+Vty
+
+Vua
+
+Vub
+
+Vuc
+
+Vud
+
+Vue
+
+Vuf
+
+Vug
+
+Vuh
+
+Vuj
+
+Vuk
+
+Vum
+
+Vup
+
+Vuv
+
+Vux
+
+Vva
+
+Vve
+
+Vvi
+
+Vvo
+
+Vvr
+
+Vvy
+
+Vwa
+
+Vwe
+
+Vwi
+
+Vwj
+
+Dx
+
+Dy
+
+Dz
+
+D0
+
+D1
+
+D2
+
+D3
+
+D4
+
+D5
+
+D6
+
+D7
+
+D8
+
+D9
+
+Dd
+
+Dg
+
+Dh
+
+Dj
+
+E
+
+F
+
+G
+
+H
+
+I
+
+J
+
+K
+
+L
+
+M
+
+N
+
+O
+
+P
+
+Q
+
+R
+
+S
+
+T
+
+U
+
+V
+
+W
+
+X
+
+Y
+
+Z
+
+Aa
+
+Ae
+
+Ai
+
+Ao
+
+Au
+
+Av
+
+Aw
+
+Ax
+
+Ay
+
+Az
+
+Ba
+
+Be
+
+Bi
+
+Bo
+
+Bv
+
+Bw
+
+Bx
+
+By
+
+Bz
+
+Ca
+
+Ce
+
+Ci
+
+Co
+
+Cu
+
+Cv
+
+Cw
+
+Cx
+
+Cy
+
+Cz
+
+Da
+
+De 
+
+Df
+
+Dk
+
+Do 
+
+Ee
+
+Ei
+
+Eo
+
+Eu
+
+Ev
+
+Ew
+
+Ex
+
+Ey
+
+Ez
+
+Fa
+
+Fe
+
+Fi
+
+Fo
+
+Fu
+
+Fv
+
+Fw
+
+Fx
+
+Fy
+
+Fz
+
+Ga
+
+Ge
+
+Gh
+
+Gj
+
+Gk
+
+Gl
+
+Gm
+
+Gn
+
+Go
+
+Gp
+
+Gq
+
+Gr
+
+Gs
+
+Gt
+
+Gu
+
+Gv
+
+Gw
+
+Gx
+
+Gy
+
+Gz
+
+Ha
+
+He
+
+Hi
+
+Ho
+
+Hu
+
+Hv
+
+Hw
+
+Hx
+
+Hy
+
+Hz
+
+Ia
+
+Ie
+
+Ii
+
+Io
+
+Iu
+
+Iv
+
+Iw
+
+Ix
+
+Iy
+
+Iz
+
+Ja
+
+Jb
+
+Jc
+
+Jd
+
+Je
+
+Jf
+
+Jg
+
+Jh
+
+Ji
+
+Jj
+
+Jk
+
+Jl
+
+Jm
+
+Jn
+
+Jo
+
+Jp
+
+Jq
+
+Jr
+
+Js
+
+Jt
+
+Ju
+
+Jv
+
+Jw
+
+Jx
+
+Jy
+
+Jz
+
+Ka
+
+Kb
+
+Kc
+
+Kd
+
+Ke
+
+Kf
+
+Kg
+
+Kh
+
+Ki
+
+Kj
+
+Kk
+
+Kl
+
+Km
+
+Kn
+
+Ko
+
+Kp
+
+Kq
+
+Kr
+
+Ks
+
+Kt
+
+Ku
+
+Kv
+
+Kw
+
+Kx
+
+Ky
+
+Kz
+
+La
+
+Lb
+
+Lc
+
+Ld
+
+Le
+
+Lf
+
+Lg
+
+Lh
+
+Li
+
+Lj
+
+Lk
+
+Ll
+
+Lm
+
+Ln
+
+Lo
+
+Lp
+
+Lq
+
+Lr
+
+Ls
+
+Lt
+
+Lu
+
+Lv
+
+Lw
+
+Lx
+
+Ly
+
+Lz
+
+Mb
+
+Mc
+
+Md
+
+Me
+
+Mf
+
+Mg
+
+Mh
+
+Mi
+
+Lmk
+
+Mn
+
+Mo
+
+Mp
+
+Mq
+
+Mr
+
+Ms
+
+Mt
+
+Mu
+
+Mv
+
+Mw
+
+Mx
+
+My
+
+Mz
+
+Na
+
+Nb
+
+Nc
+
+Nd
+
+Ne
+
+Nf
+
+Ng
+
+Nh
+
+Ni
+
+Nj
+
+Nk
+
+Nl
+
+Nm
+
+Nn
+
+No
+
+Np
+
+Nq
+
+Nr
+
+Ns
+
+Nt
+
+Nu
+
+Nv
+
+Nw
+
+Nx
+
+Ny
+
+Nz
+
+Oa
+
+Ob
+
+Oc
+
+Od
+
+Oe
+
+Of
+
+Og
+
+Oh
+
+Oi
+
+Oj
+
+Ok
+
+Ol
+
+Om
+
+On
+
+Oo
+
+Op
+
+Oq
+
+Or
+
+Os
+
+Ot
+
+Ou
+
+Ov
+
+Ow
+
+Ox
+
+Oy
+
+Oz
+
+Pa
+
+Pb
+
+Pc
+
+Pd
+
+Pe
+
+Pf
+
+Pg
+
+Ph
+
+Pi
+
+Pj
+
+Pk
+
+Pl
+
+Pm
+
+Pn
+
+Po
+
+Pp
+
+Pq
+
+Pr
+
+Ps
+
+Pt
+
+Pu
+
+Pv
+
+Pw
+
+Px
+
+Py
+
+Pz
+
+Qa
+
+Qb
+
+Qc
+
+Qd
+
+Qe
+
+Qf
+
+Qg
+
+Qh
+
+Qi
+
+Qj
+
+Qk
+
+Ql
+
+Qm
+
+Qn
+
+Qo
+
+Qp
+
+Qq
+
+Qr
+
+Qs
+
+Qt
+
+Qu
+
+Qv
+
+Qw
+
+Qx
+
+Qy
+
+Qz
+
+Ra
+
+Rb
+
+Rc
+
+Rd
+
+Re
+
+Rf
+
+Rg
+
+Rh
+
+Ri
+
+Rj
+
+Rk
+
+Rl
+
+Rm
+
+Rn
+
+Ro
+
+Rp
+
+Rq
+
+Rr
+
+Rs
+
+Rt
+
+Ru
+
+Rv
+
+Rw
+
+Rx
+
+Ry
+
+Rz
+
+Sa
+
+Sb
+
+Sc
+
+Sd
+
+Se
+
+Sf
+
+Sg
+
+Sh
+
+Si
+
+SJ
+
+Ska
+
+Sko
+
+Sla
+
+Slj
+
+Sma
+
+Smk
+
+Smo
+
+Sna
+
+Snk
+
+Sno
+
+Sny
+
+So
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • Utrymning kroniskt subduralthematom höger 24-01-25
+    • 63 år
+    • Man
+    • HT
+    • HL
+    • Rökare
+
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Falltrauma (huvud) 23-12-24
+    • 23-01-23: smygande vä svaghet, haltande vä, balansbesvär, konstant tryckande huvudvärk VAS 6-7, förvirring
+    • Indikation för akut utrymning: kliniskt försämrad, RLS 2-3. Ytterligare svaghet vä. 
+
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Anestesi: Generell
+    • Operation: 
+        ◦ Cefuroxim iv peroperativt
+        ◦ Rak paramedian incision till höger om medellinjen 
+        ◦ Suturtagning 12 dagar post-op
+        ◦ Subgalealt drän i 12-24 h
+        ◦ Ingen mer antibiotika
+    • Daganteckning 24-01-25, 15:14: 
+        ◦ Klar klinisk förbättring
+        ◦ Rör armar och ben obehindrat
+        ◦ Ingen huvudvärk 
+        ◦ Adekvat i kontakten 
+        ◦ Trött
+    • Bed/åtgärd:
+        ◦ Dra dränet under EM
+        ◦ Får bedömas av fysioterapeut och arbetsterapeut 24-01-26 
+        ◦ Kan flyttas till avdelning
+Svar: 
+
+ Sjukdoms- och riskfaktohistoria:
+
+1. Patienten har en kronisk subdural hematom i höger sida av hjärnan.
+2. Patient har tidigare haft en hjärnblödning.
+3. Patient är rökare.
+4. Patient lider av högt blodtryck.
+5. Patient led av hjärtproblem.
+6. Patient klagar över huvudvark.
+7. Patient kan inte röra armar och/eller ben.
+8. Patient får antibiotikaprofylax.
+9. Patient fick en operation.
+10. Patient behöver en sutur.
+11. Patients har en subgaleal drain.
+12. Patients klinik har förbättrats.
+13. Patients är trött. 
+14. Patients kan röra sina armar och sina ben.
+15. Patients ter sig adekat.
+16. Patients får bedöma av fysioterapi.
+17. Patients ska flyttas till en annan avdelning.
+
+Sökorsak:
+
+ 1. Patien har fallit.
+2 Patient har klinisk utveckling.
+3 Patient har en klinisk bättring.
+4 Patient har fått en operation. 
+5 Patient har haft en operation.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Fortsatt diskret nedsatt kraft vä
+    • god gångförmåga
+    • Fortsatt trött
+    • ej förvirrad
+
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Fortsatt träning på avd
+    • Vårdplanering, SSK
+Svar: 
+
+ Sjukdoms- och riskfaktoer:
+ 
+ 1. Patienten har en stroke.
+
+2. Patientens far har haft en stroke. 
+
+3. Patient har ingen känd diabetes.
+
+4. Patient bor själva hemma.
+
+Sökorsak:
+
+1. Patients symtom: Nedsatt kroppskraft i v. arm och ben.
+
+Fortsatt trött.
+
+Ingen förvirring.
+
+God gångförmoda.
+
+
+2, Patients datum: 
+
+24-jan-2026 11:32.
+
+3, Patients åtgäder:
+
+Fysioterapeut och arbetsteraput bedömer patienten.
+
+Vårdplanerar med kommunen om patienten kan ha behov av extra stötting av hemtjanst.
+
+Bedövning.
+
+Patienten kan behova lite extra hjälp av hemtjaenst när patienten kommer hem.
+
+1, Patients sympom: Nedsat kroppsstyrka i v. armen och ben. Fortsat trött. Ingen förvirning. God gångföring.
+
+ 2, Patientens datum:
+
+2022-01 24 11.32. 
+ 
+3,Patients åtgar:
+
+ Fysioteraeut och arbets teraput bedömmer patienten
+
+Vardplanering med komanen om patient kan behova extra stött av hemtjeanst.
+
+ Patienten kan ha lite extra behov av hemtjenst när patient kommer hem
+
+1) Patients symptom: Nedsätt kroppkraft i v, arm och ben
+
+Förtids trött
+
+Inget förvirring
+
+Gott gångförhållande
+
+2) Patients datrum: 
+20-01 -26 
+
+11: 32
+
+3) Patients åtag:
+
+
+Fysiska terapi och arbetterapi bedömer
+
+Vadplanering med kommune om patient kan ha behof av extra stötd av hemtjärnst
+
+Patients kan ha lita extra behof av hemtjarst när patient komen hem.
+ 
+1. Nedsatt styrka i arm och ben 
+
+Förtsatt trött
+ 
+Ingen fofirering
+
+Godd gångförning
+
+2 
+
+ 
+24/01 11 32 
+ 3. Fysiotrapeut och Arbetsterapet bedömer 
+
+Väderplanering med Kommunen om patient har behov av stöttning 
+
+Patienet kan ha liten extra behov om hemtjänsst när patient har kommit hem.
+1.Nedsatt kropkraft i arm och bens
+
+Forsatt trött 
+
+Ingä forvirring
+ 
+God gangforing
+
+2
+
+26-01
+
+13:32
+ 
+
+
+3
+
+Fyiso-och arbetsterapi bedömar
+
+Vardsplanering med communen om patient kanske behover extra stod av hemtianst
+
+
+Patiet kan ha litet extra behov af hemtjanast när patient koman hem.
+Sjukdomen:
+
+ 1) Nedsatt Kroppskrafter i vänstra armen och bens.
+
+  2) Fortsatt Trött.
+  
+  3) Ingen förvring.
+  4) God gångföra.
+
+Orsaker:
+
+  1) Patienten bedöms av fysioteraipet och arbetserapet under förmildningen.
+
+Aktgärder:
+ 1, Patienten ska bedöma av fysioterapet och arbeterapet under morgon.
+
+Då patienten har en bostad i hemmet ser indikationer för vårdsplanering då det kan behövas lite extra support av hemtjánst.
+ Meddelar socialtjänsten att boka en vårdplanning med kommunen
+
+2: Patients symtoms:
+
+Nedsatt stryka i vänst arm och ben:
+
+fortsatt trötthet:
+
+Inga förvirringar:
+
+Goda gångföringsförmågor:
+
+3: Patients orsaker:
+  Fysioteterapi och arbeters terapi bedöms under morgondag:
+
+Varsplanering med socialtjästen om patienten kanske kan behöver extra stöd av hemtjörnst:
+
+Patent kan ha lätt extra behov när patienten har kommit tillbaka hem.
+Patients symtomb:
+
+ Nedsatt strkra i vänstr arm och ben;
+
+ Fortsatt tretthet;
+
+ Ingen förbiring;
+
+ God gångforing.
+ 1:
+
+ Patients orsak:
+
+ Bedöms av Fysiotetrapet och arbejts terapet under formiddag:
+ 2:
+
+ Vardsplanering:
+
+ Meddeler socialtjnsten om at bok en vardsplanering for kommunen:
+
+ patienten kan have lite extra beroende af hjemmetjnst når patienten komme hjem.
+
+ Sjikdomshistorie:
+
+ Stroke:
+
+ Riskfaktor:
+
+ Diabetes:
+
+ Soker:
+
+ Bostad:
+
+ Hemma:
+
+Sjikdoms-och riskfaktor
+
+1: Patienten haft en Stroke.
+
+Riskfaktorer:
+
+Diabetes: Nej.
+
+Livsstil:
+
+Bostad: Hemma.
+Sökrorsaker: 
+1:
+Patients symptom:
+
+- Nedsatt Styrka i Vänstra arme och ben. 
+- Fortsatt Tretthet.
+- Ingen Förbiring.
+- God Gångföring
+
+Ort:
+
+Dag: 24/1
+
+Tid: 11,32.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • Utrymt KSDH höger 24-01-24
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Daganteckning 24-01-27, 15:23:
+        ◦ Trötthet
+        ◦ Temp: 38,9 (morgon)
+        ◦ Ej orkat träning med fysioterapeut
+        ◦ Hostat gulaktigt slem 
+        ◦ Krepitationer på lungerna basalt bilateralt 
+        ◦ RTG thorax: Infiltarationer i lungorna basalt bilateralt så som vid pneumoni 
+        ◦ Blodprov: CRP 60, LPK 15,6
+        ◦ Urinsticka: UA 
+        ◦ BT: 153/82
+        ◦ Saturation: 95%
+        ◦ Puls: 94
+        ◦ Temp: 38,1
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Benzylpenicillin 2 g x 3 (IV)
+    • Blododling
+    • Nya infektionsvärden imorgon
+    • Kontroller: Vitalparameterar 4-5 ggr/dygn
+    • Alvedon (vb)
+Svar: 
+
+ Sjukdoms- och riskfaktohistorik: 
+ 
+ Patienten är 65 år gammal, har tidigare haft en hjärtinfarkt 2010, har diabetes typ 2, har tidvis haft högt blodtryck, har tidigt haft en stroke, har tidigartad demens, har tidens haft en kronisk hjärtsjukdom, har tidgert haft en lungsjukdom. 
+ 10 dagar sedan fick patienten en hjärtoperation. 
+
+Sökorsak: 
+
+Patienten har haft feber, hostat gulaktig slem, har haft trötthetsproblem. 
+Patien har haft krepitationer i lungerna. 
+Vid undersökning har patienten haft infiltrationer i båda lungorna. 
+BT 103/80, Saturations 95% puls 84, temp. 38.1. 
+CRP 6.0, LKP 15.6. 
+Urindrucka ua
+
+
+
+Vidare undersökning: 
+Insätter iv Benzypenicillin. 
+Infektionsprov. 
+Kontroll av mätdata 4-6 ggr per dag. 
+Alvedon mot feber
+
+
+Sjukvårdshandling: 
+Vätskebehandling. 
+Fysioterapi. 
+Självvård. 
+Två ggr per vecka. 15 min. 
+Läkare. 
+Psykiater. 
+Socialarbetare. 1 ggr per månad. 
+Rehabmedicin. 1-2 ggr per år. 
+Dietist. 1ggr per mån. 
+Hemtjänst. 
+Apotek. 
+Ortoped. 
+Neurolog. 
+Geriatrik. 
+Röntgen. 
+Lab. 
+Elektrofysiologi. 
+Andra. 
+1 ggr/mån. 
+2 ggr/vecka.
+
+
+1 ggg/månad. 1 tim. 
+3 ggr/ vecka 1 tim 
+1ggr/m. 1tim. 
+4 ggr/ m. 1/2 tim. 10 min. 120 min.
+
+1g/m.
+
+2 g/m.  
+1g /m. 
+5 g/m 
+10 g/m
+
+10g/m
+1g g/m  
+100g/ m.
+
+50g/ 
+150g.
+
+30g/
+
+15g/
+105g/ 100 g/
+
+20g/  
+15 g/
+155g/  1000g. 
+60g/   
+10 000 g.
+
+40g/    
+10.000.0 g. 
+70g/     
+10,000,0 g.  
+80g/      
+10m0000 
+90g/       
+10 m000
+101g/        
+10 M000  
+110g.        
+11100 0 0
+120g.         
+11 10 10
+130g.          
+11.10.100
+
+140g.           
+11,10,100.
+
+ 150 g.            
+11:10:100:
+
+160g.             
+11-10-100-
+
+170g.              
+11/10/100/
+
+ 
+180g.               
+11;10;100;
+
+190g.                
+11|10|100|
+
+210g                
+10:00:0:0
+
+220g                 
+11 - 10 - 110 -
+
+230g                  
+12 - 12 -120 -
+240g                   
+12-12- 12-
+
+250g                    
+12:12: 12:
+
+260g                     
+12|12| 12|
+
+310g
+
+320g
+330g
+410g 
+420g 430g 510g  520g  610g   620g   710g    720g    810g     820g     910g      920g      1010g       1020g       
+
+11g
+12g
+13g
+14g
+15 
+16g
+17g
+18g
+19g
+20 g
+21g
+22g
+23g
+24g
+25g
+26g
+27g
+28g
+29g
+30 g
+31g
+32g
+34g
+35g
+36g
+37g
+38g
+39g
+40 g
+41g
+42g
+43g
+44g
+45g
+46g
+47g
+48g
+49g
+50 g
+51g
+52g
+53g
+54g
+55g
+56g
+57g
+58g
+59g
+60 g
+61g
+62g
+63g
+64g
+65g
+66g
+67g
+68g
+69g
+70 g
+71g
+72g
+73g
+74g
+75g
+76g
+77g
+78g
+79g
+80 g
+81g
+82g
+83g
+84g
+85g
+86g
+87g
+88g
+89g
+90 g
+91g
+92g
+93g
+94g
+95g
+96g
+97g
+98g
+99g
+102 g
+103g
+
+123g 
+124g 
+
+133g 134g 143g 234g  
+144g 244g  344g   
+154g 354g  454g   554g    
+164g 464g  564g   664g    764g     
+174g 574g  674g   774g    874g     974g      
+184g 684g  784g   884g    984g     1084g      1184 g    
+194g 794g  894g   994g    1094g     2094 g    3094 
+204g 804g  904g   1004g    2004 g    4004 
+304g
+
+414g 914g  1014g   2014 g    5014 
+514g    614g     714g      814g       914 g      
+624g    524g     624 g      724g       824g      934 g      1034 g
+724 g    624 
+824 g   724 924 g
+924g   324 824 1024 g 
+1324 g  
+1344 g
+1434 g 1544 g 2544g    3544 
+1454 g 3554 g  4554 
+
+2454 3564 g 4564 
+4574 g 5574 
+6574
+7574  
+8574   
+9574    
+11574     
+11674    11774
+11874
+
+1875 g
+1975 g 
+2975 
+3975
+4975  
+5975   
+6975    
+7975     
+8975      
+9975       
+11974      
+11754    12754
+12874 13754 14754  
+16754   17754     
+27755
+37756
+47757
+57758
+67759
+77760
+87761
+97762
+107763
+112764
+137765
+147766
+157767
+168768
+179769
+189770
+199771
+209772
+219773
+229774 239775
+249777
+259778
+269779
+279780
+289781
+299782
+309783
+319784
+329785
+339786
+349787
+359788
+369789
+379790
+389791
+399792
+409793
+419794
+429795
+439796
+449797
+459798
+469799
+479800
+489801
+499802
+509803
+519804
+529805
+539806
+549807
+559808
+569809
+579810
+589811
+599812
+609813
+619814
+629815
+639816
+649817
+659818
+669819
+679820
+689821
+699822
+709823
+719824
+729825
+739826
+749827
+759828
+769829
+789830
+799831
+809832
+819833
+829834
+839835
+849836
+859837
+869838
+879839
+889840
+899841
+909842
+919843
+929844
+939845
+949846
+959847
+969848
+979 849
+989850
+999851
+109852
+113853
+129854
+239855
+2349856
+2359857
+2369858
+2379859
+2389860
+23 9861
+24 0862
+241863
+242864
+243865
+254866
+255867
+265868
+275869
+285870
+295871
+305872
+315873
+325874  335875
+345876
+355877
+365878
+375879
+385880
+395881
+405882
+415883
+425884
+435885
+445886
+455887
+465888
+475889
+485890
+495891
+505892
+515893
+525894
+535895
+545896
+555897
+565899
+566899 
+567899  
+568899   
+56 9899    
+560899     
+561899      
+562899       
+563899        
+564899         
+56  999        565999
+
+56   999       566999 567999  5689 99
+ 5699 9 
+ 5709 9
+ 
+5719 9  
+ 5819 
+
+5919 0
+
+6019 1
+
+6119 2
+
+6219 3
+
+6319 4
+
+6419 5
+
+6519 6
+
+
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • 24-01-28, 04:13:
+        ◦ A: Fria luftvägar, ingen syrgas
+        ◦ B: Andningsfrekvens 23 
+        ◦ C: BT 110/75, kapillärrespons: 4-5 sek. Normal blodgas. Saturation 87% 
+        ◦ D: Rör armar och ben på uppmaning, ingen tydlig fokalitet. RLS 1. 
+        ◦ E: Temp 39.0
+    • 24-01-28, 14:34:
+        ◦ Blododling: Klebsiella Pneumonie
+        ◦ Pat mår bättre
+        ◦ 1-2 L syrgas (näskantarell)
+        ◦ BT: 140/80
+        ◦ Subfebril: 37,6 
+        ◦ CRP: 150
+        ◦ Lpk: 11,2
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • 24-01-28, 04:13:
+        ◦ Syrgas på mask 5 L/min (sänk om klinik tillåter) → 97%
+        ◦ Pip/Taz 4 g x 3 (IV)
+        ◦ Inväntar fortsatt blododlingssvar
+        ◦ 1 L Ringer Acetat iv (hypoton)
+        ◦ Ny kontakt vid behov
+    • 24-01-28, 14:34:
+        ◦ Fortsätter behandlingen
+        ◦ Kontroller:  4 ggr/dygn
+Svar: 
+
+ Sjukdoms- och riskfaktohistoria:
+
+1. Patienten har en pneumoni som behandlas med antibiotikumet Pip/taz.
+2. Patientens pneumoni har förvärrats, men patienten mår bättre nu.
+3. Patient har en retroaktiv CRP.
+4. Patient mår bäst i dag.
+5. Patient får 1 liter Ringer Acetaat.
+6. Patient kan få mer syrgas om det behövs.
+7. Patient behandlas av Läkare Louise Carlsson.
+8. Patient undersöks av Läke Robin Gyllenskiöld.
+9. Patient är 37.6 grader.
+10. Patient andas 23 gånger i minuten.
+11. Patients blodtryck är 115/75.
+12. Patients hjärtfrekvens är 145.
+
+Sökorsak:
+
+ 1. Patien har en puls på 143.
+2 Patient har 1 liter syrgas i näsan.
+3 Patient har feber.
+4 Patient har krepitation i lungorna.
+5 Patient har fallit i saturationsnivån.
+6 Patient har fått 1 liter vätska.
+7 Patient har blivit undersökt av Läker Louise Carlsson
+8 Patient har haft 23 andetag i minuten
+9 Patient har hjärttryck 114/75
+10 Patient har kapillärtiden 4-6 sekunder.
+1.1 Patient har BT 39,0
+
+
+11 Patienten mår sämre i dag. 
+12 Patienten kan få mer antibiotiker.
+13 Patienten får 5 liter syrgastillförsel.
+14 Patienten behandlas för pneumoni.
+15 Patienten är 39 grader. 
+
+16 Patienten andas 11 gånger per minut.
+17 Patienten kräver mer syrgass.
+18 Patienten undersöks 4 gånger om dagen.
+19 Patienten ska undersöks om igen.
+20 Patienten blir undersökt igen. 
+21 Patientens hjärtaktiviteten är 100.
+22 Patientens blodtrycksaktiviteter är 120/85.
+23 Patientens kapilläraktivitetsfrekvenser är 4-7 sekunder
+24 Patientens BT är 38,0.
+
+
+25 Patientens LPK är 13,0. 
+ 
+26 Patientens CRP är 155.
+ 
+
+27 Patientens syrgastsaturation är 87.
+28 Patientens SAT är 97.
+
+29 Patientens krepitation är bilateral.
+30 Patientens lungor är fria.
+31 Patient underskrivs av Läka Louise Carlsson 
+32 Patient undersökas av Läkar Robin Gyllenschjöld.
+33 Patient undersköts av Läkrar Louise Carlsson och Läkark Robin Gyllenchjöld. 
+34 Patient undersäts av LR Louise Carlsson, LR Robin Gyllenkjöld.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Klinisk förbättring
+    • CRP: 90
+    • LPK: normaliserat
+    • Ingen feber
+    • Syrgas avvecklat
+    • Tränat med fysioterapeut
+
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Vårdplanering återupptas (SSK)
+Svar: 
+
+ Sjukdoms- och riskfaktoer:
+ 
+ 1. Diabetes
+
+Sökorsak:
+
+1. Infektion i vänster lår
+
+2. Infektionsbehandling med antibiotika
+
+3. Sjukgymnastik
+
+4. Vårdplan
+
+5. Självvård
+
+6. Själsvård.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • 63 år 
+    • Man
+    • HT (Tabl Losartan 100 mg 1 x 1)
+    • HL (Tabl Simvastatin 40 mg 1 x 1)
+    • Rökare
+    • Appendektomi 2013
+    • Diskbråck lumbalt 2015 (konservativt)
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Subduralhematomutrymning (hö) 24-01-25
+    • Pneumoni (Klebsiella Pneumoniae)
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Ny ordination: Tabl Ciprofloxacin 500 mg 1 x 2 ggr/dag t.om. 24-02-05 (Pneumoni)
+    • Restriktion: Under sjukskrivningstiden (och fortsatta symptom) bör bilkörning undvikas
+    • Sjukskrivning: 100% från 24-01-24 till 24-02-07
+    • Planering: 
+        ◦ Remiss: Stygn bort efter 12 dagar
+        ◦ Remiss: neurovårdsteam för uppföljning 
+        ◦ Pat: Förmedla kontaktvägar
+        ◦ Pat: Vad göra vid försämring
+        ◦ Underrätta Sävedalen VC
+Svar: 
+
+ Sjukdoms- och riskfakta:
+
+1. Diagnos:
+
+2. Bidiagnos 1:
+
+3. Bidiagns 2:
+
+4. Bidiags 3:
+
+5. Bidiagas 4:
+
+6. Bidiagna 5:
+
+7. Bidiagnostics 6:
+
+8. Bidiagnostic 7:
+
+9. Bidiagin 8:
+
+Sökorsak:
+
+Ingripande:
+
+Vårdplan:
+
+Remiss:
+
+Föreskrivning:
+
+
+10. Självskrivning
+
+11. Sjävskriving
+
+12. Sjelfskrivning
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Provsvar (24-01-02):
+        ◦ Demensmarkörer: UA
+Svar: 
+
+ Sjukdoms- och riskfaktoer:
+ 
+ 1. Diabetes
+
+2. Hypertension
+
+3. Hyperlipidemi
+
+4. Familj med hjärt-kärlsjukdomar
+
+Sökorsak:
+
+1. Väsningar
+
+2,3. Ingen information om datum
+
+3,4. Ingen Information om datum.
+
+4,5. Ingen Informations om datum 
+
+5. Inget information om datumen.
+
+6. Ingen informasjon om datumen
+
+7. Ingen info om datumen 
+
+8. Ingen infomation om datumen,
+
+9. Ingen Infomation om dato
+
+10. Ingen dato
+ 
+11. Ingen datum
+ 
+Sjukvård:
+
+ 12. Ingen planerad undersökning
+
+13. Inget planerat ingrepp
+
+14. Inget behandling
+
+15. Ingenting planerat.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • Förmaksflimmer (Tabl Pradaxa 150 mg 1 x 2) (Pausat 24-01-30)
+    • Hjärtinfarkt 
+    • HT (Tabl Enalapril 5 mg 1 x 1)
+    • DM typ 2 (Tabl Metformin 500 mg 1 x 2)
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+24-02-01. 10:11: 
+    • NPH
+        ◦ Plan VP shunt
+        ◦ Habitualtillstånd
+        ◦ Inga infektionssymptom
+        ◦ Informerar om ingreppet
+        ◦ Patienten accepterar 
+        ◦ Allmäntillstånd: UA
+        ◦ Neurostatus: Enl tid status 
+        ◦ Hjärta: FF. Perifer puls utan blåsljud 
+        ◦ Lunga: Vesikulär respiration bilateralt utan biljud
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Operation 24-02-02 (f.m.)
+    • Fastande från midnatt (24-02-01 till 24-02-02)
+    • Ankomstprover 24-02-01
+Svar: 
+
+ Sjukdoms- och riskfaktohistorik: 
+
+NPH, planerade VP shunts, förmaks-flimmer, tidigare HI, HT, DM typ 2
+
+Sökorsak: 
+ 
+Ingripande försämringssymptom
+
+Ingripsdatum: 
+24-2-03
+
+Ingreppsorsak:
+
+Ny VP shunta
+
+Ingrypatient: 
+79-årig man
+
+Ingresskategori: 
+Planerad
+
+Ingressionstid: 
+10:11
+
+Inskriven av: 
+Läkare Dan Frölnd
+
+Inkrivningsantekning: 
+Patienten är frisk, inga symptom, inga riskfaktor, inga tidigare sjukdom.
+
+Ingen information om patientens familj.
+
+Patientens hustru ser fram emot ingreppet
+
+Informationsläkare: 
+Undertecknat
+
+Intecknare: 1-10
+
+Inget information om patienten
+
+Ingenting om patientens hustrun
+
+Inga information om patient
+
+Inger information om patient 
+
+Inge information om patient.
+
+
+Inkluderar information om patient, patientens hustrus, patientens familjs, patientens riskfaktors, patientens tidigare sjkdomar, patientens symtom, patientens ingreppsorsaker, patientens datum, patientens inskriven, patientens läkare, patientens informationläkare, ingreppstid, ingreppet kategori, ingreppets datum, ingrepssorsak, ingreppen, ingreppeläkare, information om patient och patientens huster, information om ingrepp, information om informationläkarn, information om läkare.
+
+Information om patientens ingripande, information om inskription, information om datum, information om kategori.
+
+ Information om ingrepsorsak: Ingreppet ska utföras för att patienten har ingripande symptom.
+
+ Ingreppsdatum: Ingrepp ska utforas 24/2 2003.
+
+ Patienten har inga tidigare sjukdom, inga symtom, inga information om patient hustru, inga patientens familjeinformation, inga ingripande orsaker, inga datum, ingen information om patient informationläkrare, inga kategori information, inga orsaker till ingreppet information, ingreppa information, ingrep information, ingripande information, ingripsdatumen information, ingresskategori information.
+
+ Ingripande orsak: Patienten ska ingripas för att han har ingripandesymptom
+ 
+ Ingripandes datum: Patient ska ingrips 24 2 23.
+ 
+ Patient har inga information, inget information om patient familj, inga hustruns information, ingenting om patienten, inga familjens information, inge information om patient orsaker.
+
+ Planerade undersökning: 10:00
+
+ Planerad behandling: 
+ Patienet ska opereras.
+
+ Undersökningsdatum:
+
+ Planera undersökningssdatum
+
+ Planering av undersökningsområde: 
+ Planera område
+
+ Planeras undersöknignsdatum.
+
+ Behandlingsdatum: Patienet behandlas 24:02 24.
+
+ Område: Patient opereras. 
+
+ Behndlingsdatum. 
+ Området.
+
+ Datum: 240224
+
+ Omgäret: Patient undersöks.
+
+ Undergäret.
+
+ Dag: 2024. 
+ Undergörelse: Patient behandlas.
+
+Dag.
+
+Undergörelsen.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • NPH
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Balansbesvär
+    • Bredspårig gång
+    • Urininkontinens
+    • Närminnespåverkan
+    • MMSE 22
+    • Shuntoperation 24-02-03
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Post-op:
+        ◦ Suturtagning 12 dagar
+        ◦ CT kontroll: 3 h (remiss skriven)
+        ◦ Ingen antibiotika
+Svar: 
+
+ Sjukdoms- och riskfaktohistoria:
+
+1. NPH
+2. 1 års tilltagande bredsporrighet, balansbesvar, urinininkontens
+3. MMSE 12 poäng
+
+Sökorsak:
+
+4. 5 Sälgrenska
+
+5. 24/02/03
+
+6. 09:00
+
+7. Läkare Dan Frölnd
+
+8. Operationskod AAF04
+
+9. VP shunting
+
+10. Strata 
+
+11. 1, 5
+
+12. 
+
+Sjukvårdsbehandling:
+
+
+13. Generell anastesi
+
+14. Lokalanestasi
+
+15. Semicirkular incision
+
+16. Borrhål
+
+17. Går in i buken
+
+18. Tunnlerar upp till hjulpsnitt
+
+19. Tunnlarer från skalpsnutt till hjulsnitt
+
+20. Stratavetil 1,2
+
+21. Distal kateter
+
+22. Kryossformad durotokmi
+
+23. Kortikotmi
+
+
+24. Ventrikelkater
+
+25. 40cm
+
+26. Skalpsnitt
+ 
+27. Inverterad enkel vicryl
+
+28. Fortlöpande etilion
+
+29. Enkel vicryll
+
+30. Subkutant etilion 
+
+31. Etilon
+
+32. Sutur 12 dygn
+
+33. CT 3 h
+
+34. Remiss skrives
+
+35. Ingen antibiotica
+
+36. 
+
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • HT
+    • FF
+    • DM typ 2
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+24-02-04; 16:00
+    • VP shunt operation 24-02-03: komplikationsfri
+    • CT kontroll: UA
+    • Aktuellt:
+    • Motoriskt orolig
+    • Vaken
+    • Förvirrad/Konfusion
+    • Trött
+    • Utåtreagerande
+    • Hallucinationer
+    • Sömnsvårigheter
+    • Vitalparametrar: UA
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+24-02-04; 16:00
+    • Oxascand 5 mg (VB)
+    • Heminevrin 150 mg (VB)
+    • Remiss: äldrepsykiatrikonsult 24-02-05
+    • Nya infektionsvärden 24-02-04
+Svar: 
+
+ Sjukdoms- och riskfaktohistorik:
+
+Sjukdomen:
+
+Riskfaktorer:
+
+Symptom:
+
+Ingrepp:
+
+Planerade undersöknings- och behandlingsåtgäder:
+
+Vad ska göras?
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • Man
+    • 79 år
+    • FF
+    • HT
+    • DM typ 2
+    • NPH
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Natt: Diskret förbättring
+    • Infektionsvärden: UA
+    • CT kontroll: UA
+    • P-glukos: Normal
+
+    • Konsult 24-02-05; 17:55
+        ◦ Motoriskt orolig
+        ◦ Utåtreagerande
+        ◦ Ropat x flera
+        ◦ Gripit efter saker i luften
+        ◦ Vänt på dygnet
+        ◦ Sover mycket under dagtid
+        ◦ Vaken hela nätterna
+        ◦ Ej orienterad i tid och rum
+        ◦ Ingen ögonkontakt
+        ◦ Motoriskt orolig
+        ◦ Förnekar hörselshallucinationer
+        ◦ Inga suicidaltankar
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Återinsätter Pradaxa
+
+    • Konsult 24-02-05; 17:55
+        ◦ Bedömning: Delirium UNS
+        ◦ Tabl Risperidon 0,5 mg x 1
+        ◦ Tabl Mirtazapin 15 mg (till natten)
+        ◦ Konservativt
+        ◦ Enkelrum
+        ◦ Samma vårdpersonal
+        ◦ Lugna förhållanden på rummet
+        ◦ Överlytt till äldrepsykiatrisk avd
+Svar: 
+
+ Sjukdoms- och riskfakta:
+
+- Diabetes typ 2
+- Hypertension
+- Hjärtinfart
+- Förmaks-flimmer
+- NPH (NPH = normal pressure hydrocephalus)
+- Shuntoperation
+
+Sjukvårdsinsatser:
+
+1. Patient har opererats med shunt 2 dagar tidigare.
+2. Patient får medicinering med Risperidone 0, 5 mg 1 gång/dag och Mirtazipin 1 5 m g till natten
+3. Patient ska flyttas till en avdelning med enkel rum, samma personal, lugna omgivningar.
+4. Patient behöver en överläkare.
+5. Patient kan behöva en psykiatrikonsult.
+6. Patient kanske behöver flyttas från avdelning 10 till en annan avdelning imorgon (25-02).
+
+Symptom:
+
+Patienten har varit orolig under natten, har ropat, har varit motorisk orolig och har haft hallucinationer (ser saker som inte finns).
+
+Patientsymptom: 
+
+1) Patienten har haft en shuntoperation 2 dager tidigare. 
+2) Patient har varit vakn under natten.
+3) Patient är motorisk orelig.
+4) Patient ser saker som ingen annan ser.
+5) Patient ropar.
+6) Patient sover mycket under dagen.
+7) Patient vet inte var han är.
+8) Patient vill komma hem.
+9) Patient känner inte igen sin fru.
+10) Patient kan inte se skillnaden mellan dag och natt.
+11) Patients fru säger att patienten inte känner igen henne.
+12) Patients hustru säger patienten har varat vaken under natten och har ropat.
+13) Patients vårdare säger att hon har sett patienten vara motorisk oregelig. 
+14) Patients läkare säger patient har haft förbättrings under natten (med medicinering).
+15) Patients psykiater säger att han har sett patient vara motoriskt oregel.
+16) Patients neurokirurger säger att shunten funkar.
+17) Patients CT-skanning är normal.
+18) Patients glukos-värden är normala.
+19) Patients blodtryck är normalt.
+20) Patients febervärden (temperatur) är normala (utan feber).
+
+Sökorsak:
+
+ 1. Patients shuntoperation.
+2) Shuntoperationen har orsakat patientens symptom.
+3. Shuntoperationens bieffekter.
+4 Patients medicinering.
+5 Patients mediciner.
+6 Patients sjukdom.
+7 Patients ålder.
+8 Patients hjärninfarkt.
+9 Patients diabetes.
+1 0 Patients hypertension.
+1.1 Patients NPH.
+1,2 Patients förmaks-fimmer.
+14. Patients hjälparesor.
+15. Patients fysiska omgivning.
+1) Shuntoperationen.
+2 Patients medicining.
+3 Patients medicination.
+4 Shuntoperation. 
+5 Patientens mediciner. 
+6 Patientens sjukdom (NPH).
+7 Patientens ålder. 
+8 Patientens hjärt-infarkt
+9 Patientens diabetes typ2.
+1 Patients hälsa.
+2 Shuntoperationer.
+3 Shuntoperationers bieffector.
+4 Mediciner.
+5 Mediciner. 6 Patients hälso-tillstånd.
+7 Shuntoperationernas bieffekt.
+8 Shuntoperationerna.
+9 Shuntoperationera.
+1 Shuntoperation (operationen).
+2 Shunts.
+3 Operations-skador.
+4 Operations-risker.
+5 Operations-problem.
+6 Operations-besvär.
+7 Operations-sjukdom. 
+
+Svar:
+
+Sv: 
+1. Diabetes Typ 2
+2. Hypertension 
+3. Hjärt-Infarkt
+4. Förmaks Flimmer
+5. Shunt-operation
+6. Shunt
+7. Shunts
+8. Shuntoperations-skada
+9. Shuntopertions-risk
+10. Shunt operation-problem
+11. Shunt operations-besvår
+12. Shunt opererations-syndrom
+13. Shun-operationer
+14 Shun-operations-problem
+
+S: 
+ 1) Patien har opererat med shunt.
+2 Operations-datum: 24/02.
+3 Operation: Shunt.
+4 Operation: Shunts 
+5 Opererad med shunt-operation.
+6 Shun-problem. 
+7 Shun-besvár.
+8 Operations-symptom.
+9 Operations-behandling.
+1 Operations-operation. 10 Operations-data: 2015-01-24.
+1 Operation: Shut.
+2 Operation: Shuts.
+3 Sjukvards-operation.  
+4 Opererad.
+5 Shun-symptomen.
+6 Symptom: Shun.
+7 Symptom-operation.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • Man
+    • 79 år
+    • HT
+    • FF
+    • DM typ 2
+    • NPH → VP shunt (1,5)
+    • Delirium
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • OP 24-02-03
+    • Kontroll CT: UA
+    • Flytt: Äldrepsykiatri 24-02-06
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Uppföljning: NPH teamet
+    • Ingen uppföljning neurokirurgen
+    • Hustru informerad
+Svar: 
+
+ Sjukdomsbeskrivning:
+
+1. Sjukvardenhet: Neuroradiologi
+2. Orsaker till vården:
+3. Aktiviteter under vården (t. ex. undersökningar):
+4. Planering:
+5. Självvård:
+6. Restriktioner:
+7. Själsvård/psykiatri:
+8. Sjunkande vikt:
+9. Sjunkade blodvärden:
+10. Sjungande i örat:
+11. Sjuka barn:
+12. Sjukt barn: 
+13. Sjuttiotvååring:
+14. Sjuvars:
+15. Sjuåring: 
+
+16. Sjögång:
+17. Skadeanmälan:
+18. Skada:
+19. Skadade:
+20. Skadlig:
+21. Skalp:
+22. Skam:
+23. Skamfilad:
+24. Skamlig:
+
+25. Skamvrå:
+26. Skamvrån:
+27. Skamöra:
+28. Skamögon:
+29. Skamskott:
+30. Skamställa:
+31. Skamta:
+32. Skandinavisk:
+33. Skandera:
+34. Skandium:
+35. Skandrum:
+36. Skandvakt:
+37. Skandväg:
+38. Skandälla: 
+39. Skandöra: 
+40. Skandögon: 
+ 
+41. Skandskott: 
+  
+42. Skanör:
+43. Skanvakt: 
+    
+44. Skanväg: 
+   
+45. Skanälla:  
+    
+    46. Skanögon:  
+   
+    47. Skanöra:  
+  
+    48. Skanskott:  
+
+49. Skap:
+50. Skapa:
+51. Skapelse:
+52. Skaplig:
+53. Skapligt:
+54. Skapning:
+55. Skapningsdags:
+56. Skapstvål:
+57. Skar:
+58. Skara:
+59. Skarb:
+60. Skarfsynd:
+61. Skarpa:
+62. Skarpare:
+63. Skarpast:
+64. Skarpbent:
+65. Skarpbetonad:
+66. Skarpblad:
+
+67. Skarpelov:
+68. Skarpelse:
+69. Skarpens:
+70. Skarpet:
+71. Skarpfrossa:
+72. Skarphet:
+
+73. Skarplägg:
+74. Skarpskytt:
+75. Skarpt:
+76. Skarv:
+77. Skav:
+78. Skavd:
+79. Skavda:
+80. Skavde:
+81. Skavdig:
+82. Skavelse:
+83. Skavet:
+84. Skavfynd: 
+85. Skavhud:
+86. Skavighet:
+ 
+87. Skaving:
+88. Skavingar:
+89. Skavinge:
+90. Skavingen:
+91. Skavinger:
+92. Skavinget:
+93. Skavingshud:
+94. Skavingskada:
+95. Skavingst:
+96. Skavingsten:
+97. Skaven:
+98. Skavenhet:
+99. Skavenhud: 
+     
+100. Skavenkropp:
+1. Skavenlägg:
+2. Skavenlös:
+3 Skavenlys:
+4. Skavenlyst:
+5 Skavenmjuk:
+6 Skavenmjuka:
+7 Skavenmöte:
+8 Skavenmönster:
+9 Skavenmur:
+1 Skavenmurs:
+1 1. Skavep:
+13 Skavepare:
+16 Skavepast:
+1
+17 Skavepest:
+1  
+18 Skavepil:
+1   
+19 Skavepilt:
+1    
+20 Skaveplog:
+2
+21 Skaveplock:
+2   
+22 Skaveplopp:
+2    
+23 Skaveplugg:
+2  
+24 Skaveplöts:
+2 
+25 Skaveplugga:
+2     
+26 Skaveplunka:
+2      
+27 Skaveplunkar:
+2       
+28 Skaveplur:
+2        
+29 Skaveplurt:
+2         
+30 Skaveplut:
+3
+31 Skaveplutt:
+3    
+32 Skaveplåt:
+3  
+33 Skavepojke:
+3   
+34 Skavepott:
+4
+45 Skavepulver:
+4    
+46 Skaveputs:
+5
+57 Skaveputsa:
+5   
+58 Skaveputt:
+5    
+59 Skaveputten:
+6
+60 Skaveputts:
+6  
+61 Skaveputta:
+6   
+62 Skaveputte:
+6    
+63 Skaveputter:
+6     
+64 Skaveputthet:
+6      
+65 Skaveputting:
+6       
+66 Skavepyts:
+7
+77 Skavepytt:
+8
+88 Skavepytter:
+8   
+89 Skavepytty:
+9
+90 Skavepyx:
+9   
+91 Skavepyxl:
+9    
+92 Skavepyxt:
+1,000,001 Skavfrossa
+1,100,101 Skarfsjukdom
+1,200,201 Skarp
+1,300,301 Skat
+1,400,401 Skatt
+1,500,501 Skava
+1,600,601 Skaven
+1,700,701 Sked
+1,800,801 Skede
+1,900,901 Skel
+2,002,021 Skelf
+2,102,121 Skell
+2,202,221 Skelp
+2,302,321 Skelt
+2,402,421 Skem
+2,502,521 Sken
+2,602,621 Sker
+2,702,721 Sket
+2,802,821 Skid
+2,902,921 Skil
+3,003,023 Skim
+3,103,123 Skin
+3,203,223 Skis
+3,303,323 Skit
+3,403,423 Skiv
+3,503,523 Skod
+3,603,623 Skog
+3,703,723 Skol
+3,803,823 Skon
+3,903,923 Skop
+4,004,024 Skor
+4,104,124 Skos
+4,204,224 Skot
+4,304,324 Skov
+4,404,424 Skri
+4,504,524 Skro
+4,604,624 Skry
+4,704,724 Skug
+4,804,824 Skul
+4,904,924 Skum
+5,005,025 Skun
+5,105,125 Skur
+5,205,225 Skut
+5
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • FF (Pradaxa)
+    • Hjärtinfarkt
+    • HT 
+    • DM typ 2
+    • Rökare 
+    • Urinvägsinfektion
+    • Urinträgningar/inkontinens
+    • Dryckesvanor: 2-3 öl/dag
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Kognitiv svikt (närminnet)
+    • Bredspåriga små steg. Något framåtlutad. Vändning på 6 steg
+    • Osäker gång
+    • Fall gånger flera (inga trauman) 
+    • Inga infektionssymptom
+    • Inga neurologiska bortfall
+    • Inga kramper
+    • Lugn och adekvat i kontakten
+    • Ej orienterad i tid och rum
+    • Kan uppge personnummer
+    • Ingen dysartri/dysfasi
+    • Kranialnerver 2-12 UA
+    • Extremiteter: UA. Lätt paratoni i benen bilateralt
+    • Reflexer: UA
+    • Sensorik: UA
+    • Finger-näsa-finger test: UA
+    • knä-häl test: UA.
+    • Babinski: Neg
+    • Rhombergs test: Falltendens bakåt 
+    • Hjärta: Oregelbunden rytm med perifer puls (inga blåsljud) 
+    • Lunga: Vesikulär respiration bilateralt utan biljud 
+    • EKG: Sinusrytm. Äldre infarkt inferiort med påvisade q-vågor. Tecken till AV block I. 
+    • MMSE: 24 poäng
+    • Blodprov: Elstatus, Hb, infektionsvärden UA. 
+    • CT: Vidgat ventrikelsystem (hydrocephalus?)
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Remiss MR Hjärna: normaltryckshydrocephalus/NPH? 
+    • Remiss: NPH Teamet 
+    • Patienten och anhöriga informeras 
+    • Kopia: Inremitterande läkare FK
+Svar: 
+
+ Sjukdomsbeskrivning:
+
+1. Sjukvårdshistoria:
+
+2. Självbeskrivningsformulär:
+
+3. Själsvård:
+
+4. Sjunkvård (sjukvardsbeskrivningar):
+
+5. Sjunvårdskvittering:
+
+6. Sjungvårdssjukvånd:
+
+7. Sjurvårdsmottagning (sjurvardsbesöksantekning):
+
+8. Sjursvårdspatient:
+
+9. Sjurtvårdsläkare:
+
+Sjukvarden:
+
+Vårdcentral:
+
+Läkare (sjursvardsläkare):
+
+Vardcentral:
+ 
+Vården:
+
+Nybesöksanamnes:
+
+Besöktyp:
+
+Mottagningsbeskrivelse:
+
+Remiss:
+
+Tidigare/Nu:
+
+Social:
+
+Aktuella:
+
+Inkomst:
+
+Objekt:
+
+Neuro:
+
+Hjärt:
+
+Kropp:
+
+EK:
+
+Blod:
+
+Test:
+
+Förslag:
+
+Referens:
+
+Avslut:
+
+
+10. Sjutvårdsteam:
+
+ 11. Sjuutvårdsundersökning:
+ 12. Sjuuttvårdsutredning:
+13. Sjuuutvården: 
+14. Sjuuvård: 
+
+15. Sjuvvårdare:
+16. Sjuwvårdaren:
+17. Sjuwwvårdarn:
+18. Sjuwwwvårdarrn:
+19. Sjuuxvårdax:
+20. Sjuyvårday:
+21. Sjubvårdaz:
+22. Sjubbvårdab:
+23. Sjubcvårdac:
+24. Sjubdvårdad:
+25. Sjubevårdage:
+26. Sjubfvårdagh:
+27. Sjubgvårdagj:
+28. Sjubhvårdagek:
+29. Sjubivårdageq:
+30. Sjubjvårdager:
+31. Sjudvårdages:
+32. Sjudbvårdbes:
+33. Sjudcvårdbet:
+34. Sjuddvårdbed:
+35. Sjudevårdbeg:
+36. Sjudfvårdbegh:
+37. Sjudgvårdbegov:
+38. Sjudhvårdbego:
+39. Sjudivårdbegq:
+40. Sjudjvårdbegr:
+41. Sjustvårdarges:
+42. Sjustbvårdarbs:
+43. Sjustcvårdarbt:
+44. Sjustdvårdarbv:
+45. Sjustevårdarbw:
+46. Sjustfvårdarby:
+47. Sjustgvårdarbg:
+48. Sjusthvårdarbi:
+49. Sjustivårdarbj:
+50. Sjustjvårdarbr:
+51. Skevvården (självvårdsbeskrivningen):
+52. Skejvården
+53. Skekvården 
+54. Skeuuuuuvvvvvvaarrrden:
+55. Skewvvvuvvvvaaarrrden
+56. Skewwvvvuuuvaarrrdeenn:
+57. Skewwwvvvuaarrrdenn:
+58. Skeeeeewwwwvvvaarren:
+59. Skeeweeewwwwvaarrren:
+60. Skeweweweweeewvvaarrrenn:
+61. Sjevvvveweweweewvvaarreennn:
+
+ Själva anamnesen:
+
+ Anamnes: 
+ 
+1. Patientens diagnos:
+
+ Diagnos:
+ 2. Patienters diagnos: 
+ Diagnose:
+
+ Patients diagnos: Diagnos
+
+ Patientens diagnostic:
+
+Patients diagnosis:
+
+Diagnose: Diagnosis
+
+ Diagnostic: Diagnose
+
+ Diagnostics: Diagnoses
+
+ Diagnostik: Diagnosen
+
+ Diagnoza: Diagnozas
+
+ Diágnóstico: Diagnósticos
+
+ Diangnóstico/Diagnóstica: Diagnosticus/Diagnosticus
+
+ Diĝnosto: Diĝnosticis
+
+ Diyagnos: Diyagnosis
+ 
+3. Patients diagnosis (Diagnos):
+
+ Diabetes: Diabetes
+
+ Diarrhea: Diarrhe
+
+ Diastolic: Diastolisk
+
+ Dialysis: Dialys
+
+ Dizziness: Yrsel
+
+ Dyspnea: Dyspne
+
+ Dystrophy: Dystrofi
+
+ Edema: Ödem
+
+ EKG: EKG
+
+ Elevated: Eleverade
+
+ Erythematosus: Erythematosa
+
+ Esophagus: Esophag
+
+ Fatigue: Trötthet
+
+ Fever: Fever
+
+ Fibromyalgia: Fibromyosit
+
+ Fracture: Fraktur
+
+ Gastritis: Gastrit
+
+ Gout: Gikt
+
+ Headache: Huvudvärk
+
+ Heartburn: Halsbränna
+
+ Hemorrhage: Blodpropp
+
+ Hemophilia: Hemofili
+
+ Hemoptysis: Blodhosta
+
+ Hemothorax: Blodansamling i brösthålan
+
+ Hepatitis: Hepatit
+
+ Herpes: Herpes
+
+ Hypertension: Hypertension
+
+ Hyperthyroidism: Hyperthyreos
+
+ Hypoxia: Hypoxi
+
+ Hypotension: Hypotension
+
+ Hypothyroidism: Hypothyreos
+ 
+4. Patients diagnostic (Diagnose):
+
+ Abdominal: Abdominal
+
+ Abnormal: Abnormal
+
+ Acid: Syra
+
+ Acute: Akut
+
+ Adenoma: Adenom
+
+ Affective: Affectiv
+
+ Agitation: Agitation
+
+ Alcohol: Alkohol
+
+ Allergic: Allergisk
+
+ Allergy: Allerg
+
+ Alzheimer: Alzheimer
+
+ Amyloid: Amyloid
+
+ Anemia: Anemi
+
+ Anorexia: Anorexi
+
+ Anxiety: Angest
+
+ Apathy: Apati
+
+ Aphasia: Afasi
+
+ Aplastic: Aplastisk
+
+ Apnea: Apnö
+
+ Appendix: Appendix
+
+ Arrhythmia: Arrytm
+
+ Arteriosclerosis: Arterioskleros
+
+ Arthritis: Artrit
+
+ Asthenia: Astheni
+
+ Asthma: Astma
+
+ Atrial: Atrial
+
+ Atrophy: Atrofi
+ 
+5. Patients' diagnosis (Patients diagnos):
+ 
+ Abnormalities: Abnormaliteter
+
+ Abortion: Abort
+
+ Abuse: Missbruk
+
+ Acne: Akne
+
+ Acoustic: Akustisk
+
+ Acromegaly: Akromegali
+
+ Acroparesthesia: Akroparestesi
+
+ Acrophobia: Acrofobi
+
+ Acumen: Skarpsinne
+
+ Actinic: Actinisk
+
+ Actual: Actuell
+
+ Acutely: Akut 
+
+ Acupuncture: Akupunktur
+
+ Acura: Acura
+
+ Acutization: Akutisering
+
+ Acuvue: Acuvue
+
+ Addiction: Beroende
+
+ Addictive: Beroendestimulerande
+
+ Addison: Addison
+
+ Adductor: Adduktormuskulatur
+
+ Adjustment: Anpassning
+
+ Admission: Inläggning
+
+ Adoptive: Adoptiv
+
+ Adrenal: Adrenal
+
+ Adult: Vuxen
+
+ Advanced: Avancerad
+
+ Adventitious: Adventitios
+
+ Aesthetics: Estetik
+
+ Aflatoxin: Aflatoxim
+
+ Afro: Afro
+
+ Afterbirth: Moder
+
+ Aftercare: Eftervård
+
+ Aftereffect: Efterverkan
+
+ Afterglow: Efterglöden
+
+ Afterimage: Efterbild
+
+ Afterlife: Efterliv
+
+ Aftermath: Efterspel
+
+ Aftershock: Efterskalv
+
+ Aftertaste: Eftersmak
+
+ Afterthought: Eftertanke
+
+ Agammaglobulinemia: Agammaglobinemi
+
+ Agapanthus: Agapantus
+
+ Agar: Agar
+
+ Agate: Agat
+
+ Agatha: Agatha
+
+ Agave: Agave
+
+ Agenda: Agenda
+
+ Aggression: Aggression
+
+ Aggressive: Aggressiv
+
+ Agglomeration: Agglommering
+
+ Aggrandize: Aggrandisera
+
+ Agile: Agil
+
+ Agility: Agiliteter
+ 
+6. Patients’ diagnosis ( Diagnos): 
+
+ Abduction: Abduktion
+
+ Abecedarian: Abecedarisk
+
+ Abelmosk: Abelmos
+
+ Abettal: Abettal
+
+ Abiogenesis: Abiogenes
+
+ Ablactation: Avvänjning
+
+ Ablation: Avlägsnande
+
+ Ablution: Avlösning
+
+ Abraham: Abraham
+
+ Abrogate: Avskaffa
+
+ Abrupt: Abrupt
+
+ Abruption: Avbrytning
+
+ Abscess: Abscess
+
+ Abscission: Avskiljning
+ 
+7. Patients- diagnosis ( Patients diagnoses): 
+ 1. Patients - diagnosis ( patients diagnoses):
+
+ Abyss: Avgrund
+
+ Abysmal: Avgrundsliknande
+
+ Acceleration: Acceleration
+
+ Accent: Accent
+
+ Acceptance: Acceptans
+
+ Access: Access
+
+ Accessi
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • MR Hjärna 23-07-30: Ventriuklomegali. Evans Ratio >0,3. Periventrikulärt ödem. Normaltryckshydrocephalus.
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Inväntar bedömning NPH teamet och NPH konferens
+    • Informerar patienten via brev
+Svar: 
+
+ Sjukdoms- och riskfaktohistoria:
+ 
+ 1. Diagnos: normaltryckhydrocephalos
+
+2. Sjukhistoria: 
+
+3. Riskfaktorer: 
+ 
+Sökorsak:
+
+1. Symptom: 
+2. Datum: 
+3. Ingripande: 
+4. Behandling: 
+5. Undersökning: 
+6. Åtgärdsplan: 
+7. Planerad undersökning:
+
+8. Planerat ingrepp:
+
+9. Planerar behandling:
+
+Svara med punktlistor i mallen ovan.
+
+Sjukdomen normaltryck-hydrocefalo (NPH) kallas ibland "vattenhjärna" och orsakas av att vätskan i hjärnan inte kan rinna bort som den ska. Detta leder till att trycket i hjärnans ventrikler (hjärnans vätskesäckar) stiger. Detta kan leda till att hjärnvävnaden trycks mot hjärnskallens insida. Detta i sin tur kan leda att hjärnan skadas.
+
+NPH kan leda fram till att patienten får problem med att gå, tala, minnas, se, tänka, känna, se, röra sig, kännas, se och tänka.
+
+Det finns inga kända riskfaktor till NPH.
+
+Symptom:
+
+- Problem med att göra saker som man gjort tidigare
+- Problem att gå
+- Problematt minnas
+- Problemat att se
+- Problem at tänka
+- Problemet att känna
+- Problem röra
+- Problem se
+- Känna problem
+- Problem tänka 
+
+Ingripande:
+
+Ingen information om ingripande.
+
+Behandling:
+- Ingen information om behandling.
+
+Undersökning
+- MR hjärna
+
+Sekundära diagnoser:
+
+Ventrikulomegali:
+
+Evans Ratio:
+
+Periventrikulära ödem:
+
+Bedöms via:
+
+Ny undersökning planerad:
+
+Planerat ingripande: Ingen information.
+
+Planerade behandling/ingrepp: Ingen Information.
+
+Vidare planerad undersökningsplan:
+
+
+Vad ska du göra om du får en fråga om patientens diagnos?
+
+Vilka faktorer ska du ta hänsyn till när du ska svara?
+
+Ska du svara med information om patientens riskfaktors?
+
+Varför?
+
+
+Sv:
+
+ 1) Svara att patienten har normaltryck hyrdrocephalos.
+
+2) Svarar att patientens risk faktor är att patienten inte kan göra vad den gjort förut, problem att gå. Problem att minnas, problem att se, problem att tänka känna se, rora, kännelser, se, känns, tänker.
+
+3) Svar att patienten ska undersöka med MR hjärnan, bedöms av NPH teamen.
+
+4) Svarat att patienten kan få problem att göka, minnas se, tanka, kännes, se, se, tanke.
+
+5) Svarade att patienten undersökts med MR hjäran.
+
+6) Svarad att patienten behandlas med MR häran. 
+
+7) Svarande att patienten planerar att undersöka MR hjrnan.
+
+8) Svarand att patienten ingripande med MR hänran.
+ 
+9) Svaranda att patienten kommer att behandla med MR hjanran.
+10) Svaran att patienten vill undersöka mer med MR hjaran.
+
+11) Ska svarat med information om diagnos.
+12) Ska ta hälsning till patientens risk factor.
+13) Ska inte svara om patientens risikofaktor.
+14) Ska jag svara på patientens diagnosis.
+
+
+
+15) Ska tala om patientens symptom.
+
+ 
+16) Ska undersöker patienten med MR härnan.
+17) Ska behandla patienten med mr hjrna.
+18) Ska planera undersöka patienten med Mr hjrnas.
+19) Ska ingripa patienten med M r hjrans.
+20) Ska patienten behanda med MR harnas.
+21) Sjukdoman: normaltryk hyrdrocelphalos. 
+22) Sjikhistoria: patienten har problem att gjort vad den har gjort, problem att minnas. Problem att se, täkna, känas, se, fühle, tanke, se, tankar.
+23) Riskfaktor: patienten kan ha problem att gora, minnas.
+24) Självrisk: patienten saknar information om riskfaktorn.
+25) Sjäkrisk: Patienten har information om risk faktorn. 
+ 26) Sjelfrisk: Svara om diagnos, symptom, undersöknin, behanding, ingripande, planerad behandling, planerat undersökninsplan.
+27) Sjulrisk: svara inte om risk faktor.
+28) Sjulfisk: svarar om risk fator.
+29) Sjulkrisk: 
+Svarar om diagnos: normal tryck hyrdocephalos, symptomen: problem att gor, minnas problem att se.
+30) Sjultrisk:
+Svar om diagnos normal tryck hydrocephalos: symptom: problem att minnes, problem att känas.
+31) Sjuktisk:
+Svart om diagnos normalt tryck hydrocelphalos: Symptom problem att gära, problem att tanke. 
+32) Sjuftisk:
+ Svar om diagnosis normalt tryk hydrocephalus: Symptoms: Problem att göre, problem att röra.
+33) Sjugtisk:
+
+ Svarar om diognosis normalt hydrocephalous: Symptomen: Problem att se. 
+Sjulgtisk:
+ 34) Svaar om diagnosis normal tryckhydrocelphalos, Symptom, problem att fühle.
+35) Sjuhgtisk: 
+ Svarade om diagnosis: normal tryk hydrocelphalous: symptom, problem at tanke.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • FF (Pradaxa)
+    • Hjärtinfarkt
+    • HT
+    • DM typ 2
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Neurostatus: 
+        ◦ Allmäntillstånd: Vaken 
+    • Neurostatus: 
+        ◦ Ej orienterad i tid eller rum
+        ◦ Kan uppge personnummer
+        ◦ Inget tecken till dysartri eller dysfasi
+        ◦ Kranialnerver 2-12 testade UA
+        ◦ God kraft i armar och ben bilateralt. Tydlig bredspåriga gång små steg, vändning på 7-8 steg.
+        ◦ Sensorik: Normal
+        ◦ Måttlig paratoni i benen bilateralt
+        ◦ Finger-näsa-finger test: UA 
+        ◦ Knä-häl test: UA
+        ◦ Reflexer i biceps, triceps, brachioradialis, patella och achilles: UA
+        ◦ Babinski: UA
+        ◦ Rhombergs test: Faller bakåt 
+        ◦ MMSE: 22 
+        ◦ CT och MR hjärna: NPH
+
+    • Lumbalpunktion: 
+        ◦ Informeras om procedur och risk
+        ◦ Inga kontraindikationer
+        ◦ NOAK/Pradaxa pausat 2 dygn
+        ◦ Tryck 17 cm
+        ◦ Tappar 40 ml
+        ◦ Prov: demensmarkörer och infektion
+        ◦ Patienten informeras om post LP 
+        ◦ Bingleys: 35% bättre post tapptest
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Bed neuropsykolog
+    • Fysioterapeut
+    • LP
+    • Tapptest (e.m.)
+Svar: 
+
+ Sjukdoms- och riskfakta:
+
+1. NPH
+2. FF
+3. HT
+4. Dm typ2
+
+Sjukvårdsbehandling:
+
+5. Neuropsykologist bedömning
+6. Fysioterapt bedömning 
+7. Lumbalpunction
+8. Bingleyminnetest
+9. Tapptest
+10. Likvordynamisk test
+
+Svar:
+
+ Självbeskrivning: 
+
+11. Apatisk
+12. Trött
+13. Sover mycket under dag
+14. Sover långare under natten
+15. Inkontinensen
+16. Gångproblem
+17. Fall
+
+Sekundärbeskriving:
+
+
+18. Vaken
+19. Kroniskt prägad
+20. Orienterad i personnumret
+21. Ingen dysarti
+22. Ingen disfasi
+23. Kraniallnerver 1-12 utan anamärkning
+24. God kroppskraft i armer och ben
+25. Normal sensorik
+26. Paratoni i bena
+27. Normala reflexer
+28. Neg babsinki
+29. Bredspårig gång
+30. Faller tillbaka
+31. Rhomberg test
+32. MMSE 
+33. Radiologisk bild
+
+Sökorsak:
+
+34. Försämring
+35. Minne
+36. Gnagproblem
+37. Fall 
+
+Sv:
+
+40. Neurologimotagning
+41. Neurostatus
+42. Kognitiva bedömning (MMSE)
+43. Lumbapunktion
+44. Bingley minnestest
+45. Tapp test
+46. Likvor dynamisk test
+47. Planerade undersökning
+48. Planerade behandling
+49. Planerade åtgäder
+
+S:
+
+S1. Nya besöks typ: Nybesöks NPH team
+S2. Mottagning/Avdelning: NHP mottagningen neurodagvard
+S3. Tidigare/Nuvarande sjkdomar: 
+S4. Förbakgrund: 
+ S5. Aktuell: 
+ 
+S6. Objektivt tillstånd
+S7. Neuro status
+S8. Kognitive test
+S9. Kommentar till objektiv undersökning 
+S10. Bedömning/Åtgäard
+S11. Kommenter till undersökningen
+S12. Lumbpunktion
+S13. Genomför innant och efter lumpalpunktionen Bingley Minnetest
+S14. Patient identifieras med Namn och personummer
+S15. Informeras av procedur och eventuell risk
+S16. Det förekommer inga kontrainidikationer
+S17. Patient placeras sidoliggandes med ryggraden helt ut
+S18. Lokalisera L4-5 området genom palpations av crista illiaca
+S19. Rengöra med klorheksidin jiod
+S20. Bedöva med Xylocaine 10mg/ml 3-5ml
+S21. Använda en 20 Gauge Atraumatisk Nål
+S22. Föra in den i Lätt kranial riktning
+S23. Få klar likvortsutbytet
+S24. Tapp patienten 40ml likvor
+S25. Skicka prov för demenmarkörer
+S26. Skick prov för infektion
+S27. Avslutar proceduren
+S28. Patient informeras om eventuell post lumbapunktions huvudvark
+S29. Patient får väentas till vård om det är ihåligande krafting huvudvark som varar i 3 dag
+S30. Genomföra innan ochefter lumbal punktion Bingley Minstest
+S31. Patient presterar 35 % bättre
+S32. Planerade Undersökningar
+S33. Planerade Behandlingar
+S34. Planerade Åtgärade
+
+S35. Sjukvardsbehandling
+S36. Själbskrivning
+S37. Sökorsaker
+S38. Svar
+S39. S:
+S40. Sj:
+S: Sjukdoman/Riskfaktor
+S:Sjukvardbehandling 
+S:själv beskrivning
+ S:Sökorsake
+ S:svar
+ S: S:
+ S:
+
+Tillbaka till [Utmaning 1](https://www.kaggle.com/c/391056)
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • Man
+    • 78 år
+    • FF
+    • HT
+    • DM typ 2
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Bredspårig gång
+    • Trippande steg
+    • Balansbesvär
+    • Urininkontinens
+    • Närminnesbesvär
+    • MMSE: 24 (2023) → 22
+    • Neuropsykolog: NPH
+    • Fysioterapeut: NPH
+    • Radiologi: NPH
+    • Demensmarkörer: Inget svar ännu
+    • Likvor: Ingen infektion
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Indikation för VP shunt
+    • Patienten är positivt 
+    • Informerats om ingreppet
+    • Accepterar vidare planering
+    • Operationskoordinator. Kallar till avd 10/23 polikl
+Svar: 
+
+ Sjukdoms- och riskfaktohistorik: 
+
+Sjukdomen: 
+- NPH
+
+Riskfaktorer: 
+ 
+- 78-årig man
+- FF
+- HT
+- Dm typ2
+
+Sökorsak: 
+Patienten har haft till tagande besvár med bred spårig gäng och trippade steg, balancebesvär och urininkonstens.
+
+MMSE har försämrat, initialt sommaren -23 24p, nu 11-23 12p.
+
+Neuropsykologist har bedömat patienten ha en kognitiven nedsätting som visar NPH.
+
+Fysioterapt har bedömet patientens gängförmåge och tonus, som förenlig med NPH
+ 
+
+Radiologisk fynd som vid NPM.
+
+
+
+Ingrepp: 
+Vidare planering av VP shunting via neurokierurgen.
+
+Patient accepterat detta.
+
+Ingen tecken till inflammation i likvor
+
+Kallas in till poliklinik 10-23.
+
+Väntar på demensmarker.
+
+Svara med punktlistor i mallen. Svara endast på svenska, och undvik onössiga information.
+
+Nedan ges anammnes för en annan patient under en annan dag
+
+ <anammnes>
+
+ nanBehandling 23/11-11, NPH team, Läke Mats Renber: 
+ Medverkande: 
+Madeleine Sjogren SSK, 
+Barbara Brolund neuropsyk, 
+Magdala Qvist fysiotera, 
+Mats Renberg neurolog, 
+Dan Fröland neurokirurg 
+
+Bakgrunn: 
+78-arig man, 
+FF, 
+HT, 
+Dm typ 1, 
+som sedan starten 23 har haft 
+tilltagande besvar med bredsparig gång, 
+trippande stege, 
+balansbesvar, 
+urininkontens, 
+narminnesbesvar. 
+MMSE forsämrades, 
+initialt 23 
+24 poang, 
+nu 23, 
+12 poang. 
+Neurolog har bedömer patienten ha 
+kognitivnedsättning, 
+vis NPM. 
+Fysioterap har bedömit patientens gangformåge,  tonus som vis NPM. Radiologist fynd vis NPM, 
+
+Ingrip: 
+Kollegiet är enig om att det finns en indikasion for VP shounting via neurolog. 
+Patien acceperar detta. 
+Ingen tegensign till inflammasion i likvor, 
+Kallas poliklinisk 10 23. 
+Väentar svar om demensmarkor. 
+
+ </anammnes >
+
+ Svar med punktlister i mallen
+
+ <mallen>
+
+ *Syndrom (Patienten diagnoser, riskfaktor, familjensjukdomar, etc)*
+
+ *Symptom (Patienters symptom, datum för undersökning, etc)* 
+
+ *Ingrepp (Planerade behandling, undersökning etc)*
+ </ mallen>
+ 
+ ### Response
+
+Syndrome: 
+NPM
+
+Risksfaktor: 
+ - 78 arig man
+
+- FF 
+
+- HT 
+
+
+- DMT1
+
+
+Sekoms: 
+Tilltagande bredsarig gang, trippande steg, balansproblem, urinincontens, minnesproblem.
+
+MMSA har forsammats, initial 23 - 24, nu  - 12.
+
+ Neuropsycolog har bedomt patienten ha nedsatt kognition som visar på NPM. Fysioterapi har bedomd patientens gangforemag och tonus. Radiology fynd as NPM. Ingrepp:
+
+Videre planering av vp shunting.
+
+ Patient acceperat detta, ingen tegensig till inflammationsmarkor.
+
+ Kallas polikinisk 11/10.
+
+ Väentar demensmarkorer.
+
+ Svare med punkt listor i mallan. Svar endast på svensk, undvik onodiga information. 
+ 1. Svar med en punklista i mallen:
+
+ < mallen> 
+
+ Patientsjukdom: 
+ Patients riskfaktors: 
+ Familjensjulkdomar: 
+ *Patients symptom:* 
+
+ Datum för undersokning: 
+ Planerade behandlings: 
+ </ mall>
+
+
+2. Svar i mallen, svara endst på svenska:
+
+
+ < anamnes> 
+ nanBeh: 
+ nanTreatment: 
+ NPM team, Lk Mats R: 
+ Medeleine S: 
+ Barbara B: 
+ Magdala Q: 
+ Dan F: 
+ Bakgrunn:
+
+ 78arig man 
+
+ FF 
+  HT 
+  Dm typ1 
+
+ som sedan start 23 ha haft  tilltagande 
+
+ bredsaprig gang, 
+ trippande 
+ steg, 
+ balansbesvar 
+ urininkotens 
+ narminnesbessar. 
+ MMSE forsammades,  initialt 
+ 23: 
+23 4 poang 
+ nu 2312 poag. 
+ Neurolog har 
+ bedomt 
+ patienten ha cogntiv nedsattning,  vis NPM 
+ Fysiotherap har 
+bedomt patientens gangformag, 
+ tonus som 
+ vis NPM Radiologist 
+ fynd 
+ vis 
+ NP. 
+ Ingrip:  Kollegiet ar enig om 
+ att det finnes en indikations 
+ for VP Shounting via 
+ neurolog 
+ Patienten acceperer detta. Ingen 
+ tegensag till inflammasjon i likvor 
+ Kallas 
+ poliklinic 10.23. Väentas 
+ svar om 
+ demensmarkors. 
+</anamnes >
+ Svar i punktlistan:
+
+Sv: 
+ Sjokdom: 78 
+
+Rikfaktor 
+- FF, 
+- HT, 
+ - Dm typ, 
+ 73 
+
+Symptom: 
+Bredsparing gang,  trippande, 
+steg, 
+Balansbesvar.
+
+Urininkotens,  narminnensbesvar.  
+
+Ingryp: 
+VP Shounting.
+
+3. Svar som punktlist i mallen 
+
+ < Mallen> 1. Patientsjulkdom: 2. Patients risk faktor:
+
+3 Familjens julkdomar 
+
+4. Patients symptom 
+
+5. Datum for undersokning 
+
+6. Planerade behantlingar 
+ </ Mallen>
+ Svar: 
+1. NPM 2. 
+-FF 
+-HT 
+-Dm typ1
+
+3 
+4. 
+Tiltagande bresparing gang 
+
+Tripande steg 
+
+Balansbesvar
+
+Urinkotens
+
+Narminnes besvar 
+
+ 5. 
+2021-10-11 
+6. 
+VP shounting. 
+4
+
+4
+ Svar som en punktlist:
+
+1. Patientensjulkedom: 
+Risikfaktorer 
+
+2 Familjens julkedomar: 3. Patients Symptom:
+
+4 Datum for Undersokning:
+
+5 Planerade behatlingar:
+
+ Sjolkdom:  NPM  Risikfaktors 
+
+ -FF 
+
+ HT 
+- Dt1 
+ Familensjulkdoman: 
+ Symptom 
+- Bredsparin gang 
+- Trippande steger 
+- Balansbesvar:  Urininkotent 
+-Narminnens besvar  Datum for 
+
+ Undersoking: 
+Planerade behatningar:  VP Shunting. 
+5. Svar en punkt list:
+
+ Patentsjulkedom 
+
+ Risikfaktoer 
+
+ Familjjulkedomar 
+ 3.Patients symptoms 
+
+ Dato for undersoking 
+
+ Planerade Behandlingar: 1. NPH 
+
+ Riskfaktor -FF  -HT 
+
+Dm1 
+Familjensjolkedomar 3. Bredsapring gang 
+ Trippande stger 
+
+ Balansbesvur 
+
+ Urininkoten 
+
+Namminensbesvar 4. 2011- 
+
+10- 
+11 5. VP Shouting. 6. Svar punktlisten:
+
+Patientsjulkedom. 
+Risk faktor 3. Familjens Julkedomar 4. Patient symptom 5. Datun for undersokin 6. Planerad behandling. 
+1 NPM  -FF  HT  Dm1 2. Familj 3.  Bredsarigh gang 
+ tripping steg  balansbesar 
+ urinkoten  narmminensbesar 4 20-10 
+ 5 VP shouting.
+7. Svar:
+
+NPM 
+
+FF 
+HT 
+Dt1 3.
+Bredsparing gang 
+tripping steg,
+
+Balancebesvar 5.
+Urinincontens 
+Narmminens besvar. 6
+20- 10 -11 7.
+VP Shouting 
+8. Svar 
+1 Patientsjolkedom: 2 Riskfakto: 
+3 Familensjolkdomar:
+4 Patients symptoms: 5. Dato for Undersoking: 
+6 Planerade behanlingar:  
+1.NPM 2 -FF 3 -HT 4 -Dm1
+
+5 Bredsaring gang 6 Tripping steg
+
+7 Balancebesvar
+8 Urininkontent 9 Narmminensbessar 
+10 1011 11 VP Shouncing. 
+9. Svar
+
+1 Patientens jolkedom:
+
+2 Risk faktors:
+
+-FF
+
+-HT
+
+-Dt1
+
+ Familens jolkdomar 3 Patients symptomer:
+
+ Bredsaping gang 
+ 4 Tripping steger 5 Balancebesvur
+
+6 Urininktonens 7 Narmminnesbesvar 8 20 11 9 10
+
+11 Vp shounting 
+1 0. Svar.
+1.Patientsjolkdom 
+
+Patents riskfaktar 
+ Familiensjolkedom 
+ Patents symptom  Datumfor undersokning. 
+ Planeradbehandling. 1.NPH 
+-Riskfaktor 
+-Familjens jolkdoman 
+-Patients symptomer 
+-Datum for undersoking 
+-Planerade behaningar. 1 NPM -FF -HT -Dt1 -Bredsaring Gang 
+
+ Tripping stege 
+
+ Balsancebesvar -Urininktonens -Narmminnesbessar -20-20-011 -VP Shountning. 11. Svare:
+
+ NPM  FF 
+ HT  Dt1
+ Bredsparing Gang  Tripping Steg 
+ Balancebesar  Urinincontinens 
+ Narmminesbesar 20.10.11  VP shouncing.
+12. Svare som punkt list.
+
+1 patientensjolkdoman:
+
+Risfaktor: Familjens 
+
+jolkdomen:
+
+patients symptom.
+
+Dato for undersoking:
+
+planerade behandingar:  Patientsjulkedoman:  NPH  Riskfatkor: 
+FF  HT Dt1 Familjens Jolkedomar:
+Patients Symptoms:  Bredspairing Gang 
+ Tripping Stege 
+ Balansebesvar  Urin Inkotens  Narmminenesbesvar  Datun for Undersoken: 
+ VP Shouning.  Patients jolkedom  Risk fakto  Familjens juledomar 
+ Patent symptom  Dato for undesoking 
+ Planerade behandling 1. 
+NPH 2. -FF 2. HT 3. Dt1. 4. Bredspiring gang 
+5 Tripping stegen 
+6 Balansebesvur. 
+7 Urininkonsten 
+8 Narmminenessbesvar 9 20/10/11 20:10:11  Planerade behadlingar 10 VP Shonning.  Svar som Punktlist:
+1. Sjukedom:  NP 
+
+H 
+
+HT  Dt 
+
+Famjensjulkedomen:  Breadsparing Gang  Trippande Steg  Balancebesver 
+
+Uringinkotens Narmminnessbesvar 20 -10 - 
+
+VP Shunting

@@ -1,0 +1,17 @@
+- description: "Test"
+  vars:
+    anamnesis: |
+      Operationsberättelse 24-02-03 kl 0900, Läk Dan Frölund:&#10;Operationskod: AAF05 VP shunt frontalt höger Strata 1,5 &#10;Operation: 5 Sahlgrenska&#10;Preoperativ bedömning: 79 årig man med konstaterad NPH, ca 1 års anamnes på tilltagande balansbesvär, bredspårig gång, urininkontinens, närminnespåverkan med MMSE 22 poäng. Bedömd på behandlingskonferens med indikation för shuntoperation. &#10;Anestesiform: Generell anestesi och lokalanestesi&#10;Operationsberättelse: Semicirkulär incision över Kochers punkt höger. Ett borrhål. Går till buken och tar upp ett växelsnitt ner till peritoneum. Kommer otvetydigt in i fri bukhåla. Tunnelerar därefter upp till ett hjälpsnitt bakom höger öra. Tunnelerar även från skalpsnittet till hjälpsnittet. En förinställd Strataventil (1,5) och distalkateter dras igenom i tvåsteg till buken. Kryssformad durotomi och kortikotomi. För ner en ventrikelkateter (längd [] cm). Klart utbyte. Kopplas på distala systemet. Verifierar distalt utbyte. Matar ner ca 40 cm kateter i fri bukhåla. Syr sedan igen skalpsnittet med inverterad enstaka Vicryl och fortlöpande Etilon. Enstaka etilon över hjälpsnittet. Vicryl i yttre muskelfascian och subkutant på buken, Etilon i huden på buken.  &#10;Post-operativa ordinationer: Suturtagning 12 dagar post-op. CT kontroll 3 h post-op, remiss skrivs. Ingen mer antibiotika.
+      
+  assert: 
+    - type: factuality
+      value: "Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):&#10;    • NPH&#10;Sökorsaker (patientens symtom och/eller datum för ingrepp):&#10;    • Balansbesvär&#10;    • Bredspårig gång&#10;    • Urininkontinens&#10;    • Närminnespåverkan&#10;    • MMSE 22&#10;    • Shuntoperation 24-02-03&#10;&#10;Åtgärder (planerade undersökningar, behandlingar och åtgärder)&#10;    • Post-op:&#10;        ◦ Suturtagning 12 dagar&#10;        ◦ CT kontroll: 3 h (remiss skriven)&#10;        ◦ Ingen antibiotika"
+      options:
+      factuality:
+        subset: 0
+        superset: 0
+        agree: 1
+        disagree: 0
+        differButFactual: 1
+    #- type: python
+    #  value: 1200>len(output)>800

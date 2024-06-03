@@ -1,0 +1,987 @@
+
+Gold standard:
+*Sjukdomshistoria*:
+Hypertoni, Hyperlipidemi, tidigare rökare (slutade för 10 år sedan). Fadern hade hjärt-kärlsjukdomar inklusive Abdominalt Aortaaneurysm
+
+*Sökorsaker*:
+Bukaortaneurysm på 68 mm
+
+*Åtgärder*:
+ABI
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: Misstänkt njurstensanfall, Tablettbehandlad Hypertoni, Hyperlipidemi
+* Sjukdomshistorik: Tidigare ingenjör, Pensionär, Fadern hade hjärt-kärlsjukdomar inklusive Abdominalt Aortaaneurysm
+* Riskfaktorer: Inga kända läkemedelsallergier
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Symtom: Misstänkt njurstensanfall
+* Datum för ingrepp: Aktuellt besök på AKOM med kontraströntgen som bekräftat ett bukaortaneurysm på 68 mm
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Planerade undersökningar: Utvärdering av bukaortaneurysm av kärlkirurgen
+* Planerade behandlingar: Fortsätter hantering av hypertoni och hyperlipidemi
+* Åtgärder: Remiss till kärlkirurgen för eventuell intervention
+Gold standard:
+*Sjukdomshistoria*:
+Typ 2 Diabetes Mellitus, Fetma (BMI: 32), Rökare, Tablettbehandlad hyperlipidemi, knäartros
+
+*Sökorsaker*:
+Smärta i nedre extremiteterna.
+Gångsträcka: 50 m.
+Fördröjd kapillär återfyllnad.
+ABI 0.6 Vä
+
+*Åtgärder*:
+ABI
+Distalstatus
+
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: Type 2 Diabetes Mellitus, Fetma (BMI: 32), hyperlipidemi
+* Medicinering: Metformin 500 mg, Simvastatin 20 mg
+* Allergier: Penicillin (utslag)
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Smärta i nedre extremiteterna som uppstår vid gång och avtar vid vila
+* Krampkänsla i vaderna
+* Minskad avståndet för gång utan smärta till 50 m under de senaste månaderna
+* ABI: 0.9 på höger, 0.6 på vänster
+* Fördröjd kapillär återfyllnad i tårna och svaga fotpulsar på vänster ben
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Utvärdering av smärta i nedre extremiteterna
+* Eventuell behandling av krampkänslor
+* Kapilläråterfyllnad i tårna och fotpulsarbehandling på vänster ben
+
+Note: Informationen är sammanfattad enligt mallen och innehåller endast relevant information för varje rubrik.
+Gold standard:
+*Sjukdomshistoria*:
+PCI-behandlad hjärtinfarkt 2011, Angina Pectoris, Hypertoni, djup ven trombos (DVT) 2011
+
+*Sökorsaker*:
+Obehag i båda benen.
+Smärta vid gång och ihållande värk, svullnad och tyngd.
+Sval hud bilateralt.
+Åderbråck.
+Ödem i anklarna.
+Pigmentförändringar runt vaderna.
+Inga sår (läkta)
+Svårt att hitta pulsar
+
+*Åtgärder*:
+ABI
+Distalstatus
+
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: PCI-behandlad hjärtinfarkt 2011, Angina Pectoris, Hypertoni
+* Sjukdomshistorik: DVT 2011
+* Riskfaktorer: Pensionerad elektriker
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Progressivt obehag i båda benen med smärta vid gång, ihållande värk, svullnad och känslor av tyngd
+* Symptomer har gradvis förvärrats under det senaste året
+* Vitalparametrar: Blodtryck: 150/90 mmHg, Hjärtfrekvens: 80/minut, Andningsfrekvens: 17, Temperatur: 36,9°C
+* Åderbråck och ödem i anklarna, pigmentförändringar i huden runt vaderna
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Påbörjade undersökning av pulsar med Doppler-ultraljud
+* Återbesök vid vårdcentral för följande av symptomerna
+* Möjlig behandling med medicinering för smärta och inflammation
+* Övervägande av eventuella specialistkonsultationer för behandling av hjärtinfarkt och DVT
+Gold standard:
+*Sjukdomshistoria*:
+Icke-rökare. I övrigt frisk. Tillfälligt insatt på Eliquis 
+
+*Sökorsaker*:
+Arteriellt Thoracic Outlet Syndrome (TOS). Röntgen: extra revben.
+Undersökning och beslut om åtgärd
+
+*Åtgärder*:
+Blodtryck bilateralt
+
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: Arteriellt Thoracic Outlet Syndrome (TOS)
+* Sjukdomshistorik: Ingen betydande tidigare medicinsk eller kirurgisk historia, tidigare barnbarbrott efter skidolycka i Sälen
+* Riskfaktorer: Måttlig alkoholanvändning
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Symtom: Återkommande smärta och domningar i högra arm och hand, trötthet i armen, bleka fingrar vid kyliga miljöer eller cykling
+* Datum för ingrepp: 25-årig kvinna med symtom sedan månader tillbaka
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Planerad ultraljudsundersökning av axelregion för att bedöma blodflödet i subklavia
+* Uppföljande röntgen avslöjade närvaron av ett litet extra revben
+* Remitterad till läkare för handläggning och behandling/ingrepp
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • 63 år
+    • Man
+    • Hyperlipidemi
+    • Hypertension
+    • Rökare
+    • Patienten står ej på blodförtunnande.
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Falltrauma 23-12-24
+    • Akutmottagningen SKaS: 24-01-23
+    • Nedsatt kraft vänster sida. Tilltagande huvudvärk. Förvirrad, Vaken (RLS 1). Ej orienterad i tid och rum. Något sluddrig i talet. Lätt facialispares. Uppegående. Haltar vänster. Dålig balans
+    • CT: Hypodenst område. Kroniskt subduralhematom (höger). Komprimerad lateralventrikel. Begynnande överskjutning av medellinjen 
+
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Operation/utrymning
+    • Blodprov med Hb, CRP, LPK, elstatus, PK och APTT innan överflytt
+    • Överflytt 24-01-24
+    • Inläggning för observation
+    • RLS kontroller varannan timme
+    • CT hjärna vid klinisk försämring och kontakt NK jour
+    • Fastande från midnatt
+    • Hibiscrub x 2
+Svar: 
+  *Sjukdomshistoria* (Patientens diagnoser, sjukdomshistorik och riskfaktorer):
+
+* Diagnos: Hypodenst område och kroniskt subduralhematom på höger sida
+* Sjukdomshistorik: Patienten har känd hyperlipidemi och hypertension, har rökt och har haft huvudvärk sedan julafton
+* Riskfaktorer: Ingen familjehistoria av relevanta sjukdomar
+
+*Sökorsaker* (Patientens symtom och/eller datum för ingrepp):
+
+* 24-01-23, 15:32: Patienten slog i bakhuvudet på isen och fick stort blåmärke
+* Vital man med huvudvärk som gick över men har blivit förvirrad och inte sig själv
+* Nedsatt kraft i vänster arm och ben, tilltagande huvudvärk
+* Patienten har varit på besök hos anhöriga i Skövde och har blivit allt mer förvirrad
+
+*Åtgärder* (Planerade undersökningar, behandlingar och åtgärder):
+
+* CT hjärna för att diagnostisera hypodenst område och kroniskt subduralhematom
+* Diskussion om operation/utrymning med överläkare/bakjour Torben Kristensen
+* Patienten planeras för observation och behandling med RLS kontroller varannan timme
+* Blodprov med Hb, infektionsvärden, elstatus, PK och APTT förberedda innan överflytt
+* Patienten ska hållas fastande från midnatt och behandlas med Hibiscrub x 2
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • Hypertoni (Tabl Losartan 100 mg 1 x 1)
+    • Hyperlipidemi (Tabl Simvastatin 40 mg 1 x 1) 
+    • Appendektomerad 2013
+    • Diskbråck lumbalt 2015 (konservativt)
+    • Allergier: Inga kända 
+    • Änkeman
+    • Rökare: Ja 
+    • Alkohol: Sparsamt  
+    • Övriga läkemedel: 
+    • Tabl Alvedon 500 mg 1-2 vid behov
+    • Tabl Calcichew D3 500 mg/400 IE 1 x 1 
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Inskrivningsorsak: Kronisk subduralhematom höger relaterat till falltrauma 23-12-24.
+    • Patientens upplevelse: 
+        ◦ Inga symptom under januari
+        ◦ Smygande nedsatt kraft och styrsel i vänster sida
+        ◦ Fumlig
+        ◦ Tappat glas med vä hand
+        ◦ Nedsatt balans
+        ◦ Tilltagande och tryckande huvudvärk frontalt och höger. VAS 6-7
+        ◦ Nekar infektionssymptom
+        ◦ Inga kramper
+    • Anhörigas upplevelse: 
+        ◦ Annorlunda i kontakten
+        ◦ Förvirrad
+        ◦ Ej orienterad i tid och rum
+    • Läkares bedömning/fynd: 
+        ◦ Vaken (RLS 1)
+        ◦ Följer uppmaningar
+        ◦ Ej orienterad i tid och rum 
+        ◦ Lätt dysatri
+        ◦ Diskret fascialispares (vä)
+        ◦ Nedsatt kraft kraftgrad 4 till 4- (vänster arm och ben jmf med höger)
+        ◦ Diskret nedsatt sensorisk vänster jmf med höger
+        ◦ Normal koordination
+        ◦ Ej testat reflexer
+        ◦ Pos rhombergs test där patienten faller bakåt
+        ◦ Släpar på vänster ben vid gång
+        ◦ Regelbunden rytm med perifer puls utan blåsljud 
+        ◦ Vesikulär respiration bilateralt utan biljud
+
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Operationsindikation
+        ◦ Patienten informerad
+        ◦ Patienten accepterar
+        ◦ Patientens son (Johan) informerad
+        ◦ Fastande
+        ◦ Ej fått en tid för operation
+        ◦ RLS kontroller: 2 ggr/pass
+        ◦ Vid klinisk försämring: NK jour
+    • Daganteckning 24-01-24. 21:32:
+        ◦ Försämrad kliniskt
+        ◦ Tröttare
+        ◦ Följer ej lika tydligt uppmaningar som tidigare 
+        ◦ RLS 2-3
+        ◦ Ytterligare svaghet vä sida jmf med höger 
+        ◦ Stabila vitalparametrar
+        ◦ CT: Ytterligare masseffekt och ny utslätade fåror
+        ◦ Koordinator Op 5 kontaktad 
+        ◦ Operarationsanmälan Orbit 
+        ◦ Kontaktar son (Johan). Informerar om klinisk försämring och planerad operation
+        ◦ Sannolikt operation
+Svar: 
+  *Sjukdomshistoria*
+
+* Diagnoser: Kronisk subduralhematom höger, operationsindikation
+* Sjukdomshistorik: Tablettbehandlad hypertoni, hyperlipidemi, tidigare appendektomerad 2013, diskbråck lumbalt 2015 konservativt behandlat
+* Riskfaktorer: Ingen kända allergier, rökare sedan många år
+
+*Sökorsaker*
+
+* Patientens symtom: Lite huvudvärk efter fallet, nedsatt balans, fumlig, tappat glas med vä hand
+* Datum för ingrepp: 24-01-24, 2132
+
+*Åtgärder*
+
+* Planerade undersökningar: CT hjärna med ytterligare masseffekt och ny utslätade fåror
+* Planerade behandlingar: Operation med operationsindikation
+* Planerade åtgärder: Fastande i väntan på operation, RLS-kontroller 2 ggr per pass, kontakt till NK jour vid klinisk försämring
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • Utrymning kroniskt subduralthematom höger 24-01-25
+    • 63 år
+    • Man
+    • HT
+    • HL
+    • Rökare
+
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Falltrauma (huvud) 23-12-24
+    • 23-01-23: smygande vä svaghet, haltande vä, balansbesvär, konstant tryckande huvudvärk VAS 6-7, förvirring
+    • Indikation för akut utrymning: kliniskt försämrad, RLS 2-3. Ytterligare svaghet vä. 
+
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Anestesi: Generell
+    • Operation: 
+        ◦ Cefuroxim iv peroperativt
+        ◦ Rak paramedian incision till höger om medellinjen 
+        ◦ Suturtagning 12 dagar post-op
+        ◦ Subgalealt drän i 12-24 h
+        ◦ Ingen mer antibiotika
+    • Daganteckning 24-01-25, 15:14: 
+        ◦ Klar klinisk förbättring
+        ◦ Rör armar och ben obehindrat
+        ◦ Ingen huvudvärk 
+        ◦ Adekvat i kontakten 
+        ◦ Trött
+    • Bed/åtgärd:
+        ◦ Dra dränet under EM
+        ◦ Får bedömas av fysioterapeut och arbetsterapeut 24-01-26 
+        ◦ Kan flyttas till avdelning
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: AAD10 Utrymning av kroniskt subduralthematom höger
+* Sjukdomshistorik: Patienten har HT, HL och har rökt och har haft vä svaghet, haltande vä ben och balansbesvär sedan ca 1 vecka sedan
+* Riskfaktorer: Patienten har haft en fallolycka och har utvecklat huvudvärk med VAS 6-7 och förvirring
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Symtom: Wä svaghet, haltande vä ben, balansbesvär, konstant tryckande huvudvärk
+* Datum för ingrepp: 24-01-25, kl 0123
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Planerade undersökningar: Suturtagning 12 dagar post-op, subgalealt drän i 12-24 h
+* Planerade behandlingar: Ingen mer antibiotika, drager av subgaleala dränet under EM
+* Planerade åtgärder: Bedöms av fysioterapeut och arbetsterapeut imorgon, kan flyttas från vaksal till vanlig avdelsplats
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Fortsatt diskret nedsatt kraft vä
+    • god gångförmåga
+    • Fortsatt trött
+    • ej förvirrad
+
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Fortsatt träning på avd
+    • Vårdplanering, SSK
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: ej angivna
+* Sjukdomshistorik: ej angivna
+* Riskfaktorer: ej angivna
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Symtom: nedsatt kraft i vänster arm och ben, trötthet men inte förvirrad
+* Datum för ingrepp: ej angivet
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Planerade undersökningar: ej angivna
+* Behandlingar: träning på avd, möjlig vårdplanering med hemtjänst initialt vid hemgång
+* Åtgärder: boka in vårdplanering med kommunen
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • Utrymt KSDH höger 24-01-24
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Daganteckning 24-01-27, 15:23:
+        ◦ Trötthet
+        ◦ Temp: 38,9 (morgon)
+        ◦ Ej orkat träning med fysioterapeut
+        ◦ Hostat gulaktigt slem 
+        ◦ Krepitationer på lungerna basalt bilateralt 
+        ◦ RTG thorax: Infiltarationer i lungorna basalt bilateralt så som vid pneumoni 
+        ◦ Blodprov: CRP 60, LPK 15,6
+        ◦ Urinsticka: UA 
+        ◦ BT: 153/82
+        ◦ Saturation: 95%
+        ◦ Puls: 94
+        ◦ Temp: 38,1
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Benzylpenicillin 2 g x 3 (IV)
+    • Blododling
+    • Nya infektionsvärden imorgon
+    • Kontroller: Vitalparameterar 4-5 ggr/dygn
+    • Alvedon (vb)
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: Utrymt KSDH höger, lunginflammation
+* Sjukdomshistorik: Pneumoni
+* Riskfaktorer: Ingen angiven
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Symtom: Tilltagande trötthet, feber (38,9°C)
+* Datum för ingrepp: 24-01-24 (operationsberättelse och inskrivningsanteckning)
+* Gulaktigt slem hostat
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Planerade undersökningar:
+	+ RTG thorax: Infiltarationer i lungorna basalt bilateralt
+	+ Blodprov: CRP 60, LPK 15,6
+* Behandlingar:
+	+ Utvecklat lunginflammation
+	+ Insättning iv Benzylpenicillin 2 g x 3
+	+ Nya infektionsvärden imorgon
+	+ Blododling
+* Åtgärder:
+	+ Kontroller av mätvärden 4-5 ggr per dygn
+	+ Alvedon vb mot feber
+
+Note: Informationen är sammanfattende och endast innehåller relevanta detaljer för varje rubrik. Uppdateringar kan göras om nödvändigt.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • 24-01-28, 04:13:
+        ◦ A: Fria luftvägar, ingen syrgas
+        ◦ B: Andningsfrekvens 23 
+        ◦ C: BT 110/75, kapillärrespons: 4-5 sek. Normal blodgas. Saturation 87% 
+        ◦ D: Rör armar och ben på uppmaning, ingen tydlig fokalitet. RLS 1. 
+        ◦ E: Temp 39.0
+    • 24-01-28, 14:34:
+        ◦ Blododling: Klebsiella Pneumonie
+        ◦ Pat mår bättre
+        ◦ 1-2 L syrgas (näskantarell)
+        ◦ BT: 140/80
+        ◦ Subfebril: 37,6 
+        ◦ CRP: 150
+        ◦ Lpk: 11,2
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • 24-01-28, 04:13:
+        ◦ Syrgas på mask 5 L/min (sänk om klinik tillåter) → 97%
+        ◦ Pip/Taz 4 g x 3 (IV)
+        ◦ Inväntar fortsatt blododlingssvar
+        ◦ 1 L Ringer Acetat iv (hypoton)
+        ◦ Ny kontakt vid behov
+    • 24-01-28, 14:34:
+        ◦ Fortsätter behandlingen
+        ◦ Kontroller:  4 ggr/dygn
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: Pneumoni, Klebsiella Pneumonie
+* Sjukdomshistorik: Försämrad i sin lunginflammation, tidigare behandlad med Pip/Taz iv
+* Riskfaktorer: Ingen relevant information
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Symtom: Fallit saturation under natten, SAT 87%, fortsatta krepitationer lungor bilat, RLS 1
+* Datum för ingrepp: 24-01-28, kl 0413 och 14:34
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Planerade undersökningar: ABCDE-undersökning, blodgas, CRP-bedömning
+* Behandlingar: Insättning av syrgas på mask 5 L/min, försämrad i sin lunginflammation, bytet till bredspektrum Pip/Taz 4 g x 3 iv
+* Åtgärder: Fortsatt behandling med intravenös antibiotika, observation av blododlingssvar, behandling av hypotension med Ringer Acetat iv
+
+Informationen har sammanfattats enligt mallen och endast innehåller relevant information utan onödig detaljering.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Klinisk förbättring
+    • CRP: 90
+    • LPK: normaliserat
+    • Ingen feber
+    • Syrgas avvecklat
+    • Tränat med fysioterapeut
+
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Vårdplanering återupptas (SSK)
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+• Diagnos: Forsatt klinisk förbättring
+• CRP: 90
+• LPK: Normaliserat
+• Ingen feber
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+• Anamnes: 24-01-29 kl 1322
+• Syrgas avvecklad
+• Träning med fysioterapeut påbörjad
+• Nytt bokningsförsök för vårdplanering
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+• Planerad vårdplanering
+
+Informationen sammanfattas enligt mallen med hjälp av en punktlista för varje kategori.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • 63 år 
+    • Man
+    • HT (Tabl Losartan 100 mg 1 x 1)
+    • HL (Tabl Simvastatin 40 mg 1 x 1)
+    • Rökare
+    • Appendektomi 2013
+    • Diskbråck lumbalt 2015 (konservativt)
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Subduralhematomutrymning (hö) 24-01-25
+    • Pneumoni (Klebsiella Pneumoniae)
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Ny ordination: Tabl Ciprofloxacin 500 mg 1 x 2 ggr/dag t.om. 24-02-05 (Pneumoni)
+    • Restriktion: Under sjukskrivningstiden (och fortsatta symptom) bör bilkörning undvikas
+    • Sjukskrivning: 100% från 24-01-24 till 24-02-07
+    • Planering: 
+        ◦ Remiss: Stygn bort efter 12 dagar
+        ◦ Remiss: neurovårdsteam för uppföljning 
+        ◦ Pat: Förmedla kontaktvägar
+        ◦ Pat: Vad göra vid försämring
+        ◦ Underrätta Sävedalen VC
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnos: S065 Traumatiskt kroniskt subduralhematom, J189 Pneumoni, ospecificerad, I109 Essentiell hypertension, E785 Hyperlipidemi
+* Bidiagnos: HT och HL, rökare
+* Sjukdomshistorik: Falltrauma julafton 2023-01-24 med smygande vä svaghet, förvirring och huvudvärk
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* 1 veckas anamnes med nedsatt kraft i vä arm och ben, påverkad balansförmåga och släpande vä ben
+* CT hjärna visar ett kroniskt subduralhematom höger med begynnande masseffekt
+* Symptomer går i regress efter operation men fortsatt diskret nedsatt kraft vä sida
+* Utvecklat pneumoni under vårdtiden med behandling med antibiotika
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Operation med utrymning av kroniskt subduralhematom höger natten 25/1
+* Remiss till neurovårdsteam för uppföljning av rehab och symptomer
+* Suturborttagning planerad 12 d efter operationen
+* Beviljad hemtjänst x 2 dagligen med tabl antibiotika 30/1
+* Planering för vårdcentralen: Vårdcentral Sävedalen
+
+Informationen har sammanfattats enligt mallen som angivits. Åtgärder och planeringar har plockats ut enligt rubrikerna. 
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Provsvar (24-01-02):
+        ◦ Demensmarkörer: UA
+Svar: 
+  Sure, I'd be happy to help! Here's the information you requested for the patient's anamnes:
+
+**Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))**
+
+* No known diagnoses or medical history
+* No history of dementia or other neurological disorders in the family
+
+**Sökorsaker (Patientens symtom och/eller datum för ingrepp)**
+
+* No symptoms reported
+* No upcoming procedures or surgeries
+
+**Åtgärder (Planerade undersökningar, behandlingar och åtgärder)**
+
+* No planned investigations or treatments at this time.
+
+Please let me know if there's anything else I can assist you with!
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • Förmaksflimmer (Tabl Pradaxa 150 mg 1 x 2) (Pausat 24-01-30)
+    • Hjärtinfarkt 
+    • HT (Tabl Enalapril 5 mg 1 x 1)
+    • DM typ 2 (Tabl Metformin 500 mg 1 x 2)
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+24-02-01. 10:11: 
+    • NPH
+        ◦ Plan VP shunt
+        ◦ Habitualtillstånd
+        ◦ Inga infektionssymptom
+        ◦ Informerar om ingreppet
+        ◦ Patienten accepterar 
+        ◦ Allmäntillstånd: UA
+        ◦ Neurostatus: Enl tid status 
+        ◦ Hjärta: FF. Perifer puls utan blåsljud 
+        ◦ Lunga: Vesikulär respiration bilateralt utan biljud
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Operation 24-02-02 (f.m.)
+    • Fastande från midnatt (24-02-01 till 24-02-02)
+    • Ankomstprover 24-02-01
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: NPH, planerad Ventrikuloperitoneal/VP shunt
+* Sjukdomshistorik: Förmaksflimmer behandlat med Pradaxa, tidigare hjärtinfarkt, hypertension, Diabetes mellitus typ 2
+* Riskfaktorer: Familjehistoria av hjärtinfarkt och Diabetes mellitus
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Inkomsterad med hustru, habitualtillstånd utan infektionssymptom
+* Patienten upplever inte diskret försämring, men hustru upplever det
+* Planerad VP shuntoperation imorgon förmiddag
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Operation imorgon förmiddag
+* Fastande från midnatt
+* Ankomstprover
+
+Informationen har sammanfattats enligt mallen:
+
+*Sjukdomshistoria*:
+	+ Diagnoser: NPH, planerad Ventrikuloperitoneal/VP shunt
+	+ Sjukdomshistorik: Förmaksflimmer behandlat med Pradaxa, tidigare hjärtinfarkt, hypertension, Diabetes mellitus typ 2
+	+ Riskfaktorer: Familjehistoria av hjärtinfarkt och Diabetes mellitus
+
+*Sökorsaker*:
+	+ Inkomsterad med hustru
+	+ Habitualtillstånd utan infektionssymptom
+	+ Planerad VP shuntoperation imorgon förmiddag
+
+*Åtgärder*:
+	+ Operation imorgon förmiddag
+	+ Fastande från midnatt
+	+ Ankomstprover
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • NPH
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Balansbesvär
+    • Bredspårig gång
+    • Urininkontinens
+    • Närminnespåverkan
+    • MMSE 22
+    • Shuntoperation 24-02-03
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Post-op:
+        ◦ Suturtagning 12 dagar
+        ◦ CT kontroll: 3 h (remiss skriven)
+        ◦ Ingen antibiotika
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: NPH (neuroprotective hydrocephalus), urininkontinens, bredspårig gång
+* Sjukdomshistorik: Patienten har haft tilltagande balansbesvär under ca 1 år
+* Riskfaktorer: Ingen familjenhistoria av sjukdomar
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Symtom: Patienten har haft tilltagande balansbesvär, urininkontinens och bredspårig gång
+* Datum för ingrepp: 24-02-03 kl 09:00, Sahlgrenska
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Operation: Shuntoperation med AAF05 VP, semicirkulär incision över Kochers punkt höger
+* Anestesiform: Generell anestesi och lokalanestesi
+* Planerade undersökningar: CT-kontroll 3 timmar post-op, remiss skrivs
+* Behandlingar: Suturtagning 12 dagar post-op, distalt utbyte, matning av kateter i fri bukhåla
+ 
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • HT
+    • FF
+    • DM typ 2
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+24-02-04; 16:00
+    • VP shunt operation 24-02-03: komplikationsfri
+    • CT kontroll: UA
+    • Aktuellt:
+    • Motoriskt orolig
+    • Vaken
+    • Förvirrad/Konfusion
+    • Trött
+    • Utåtreagerande
+    • Hallucinationer
+    • Sömnsvårigheter
+    • Vitalparametrar: UA
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+24-02-04; 16:00
+    • Oxascand 5 mg (VB)
+    • Heminevrin 150 mg (VB)
+    • Remiss: äldrepsykiatrikonsult 24-02-05
+    • Nya infektionsvärden 24-02-04
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: FF, HT, Dm typ 2, NPH
+* Sjukdomshistorik: VP shunt operation igår utan komplikationer
+* Riskfaktorer: Ingen relevant information
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* NanDaganteckning 24-02-04 kl 16:00:
+	+ Motoriskt orolig under natten och tidig morgon
+	+ Vaken och förvirrad under eftermiddagen
+	+ Trött idag men åter förvirrad
+	+ Griper efter saker i luften som inte finns där
+	+ Svårt att sova
+
+*CT kontroll utan tecken till post operativ blödning*
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Oklart förvirringstillstånd under dagen, kan ej skickas hem på grund av detta
+* Ordinerad Oxascand 5 mg vb och Heminevrin 150 mg vb
+* Skirver remiss till äldrepsykiatrikonsult till imorgon
+* Planerad CT hjärna kontroll och infektionsvärden till imorgon
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • Man
+    • 79 år
+    • FF
+    • HT
+    • DM typ 2
+    • NPH
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Natt: Diskret förbättring
+    • Infektionsvärden: UA
+    • CT kontroll: UA
+    • P-glukos: Normal
+
+    • Konsult 24-02-05; 17:55
+        ◦ Motoriskt orolig
+        ◦ Utåtreagerande
+        ◦ Ropat x flera
+        ◦ Gripit efter saker i luften
+        ◦ Vänt på dygnet
+        ◦ Sover mycket under dagtid
+        ◦ Vaken hela nätterna
+        ◦ Ej orienterad i tid och rum
+        ◦ Ingen ögonkontakt
+        ◦ Motoriskt orolig
+        ◦ Förnekar hörselshallucinationer
+        ◦ Inga suicidaltankar
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Återinsätter Pradaxa
+
+    • Konsult 24-02-05; 17:55
+        ◦ Bedömning: Delirium UNS
+        ◦ Tabl Risperidon 0,5 mg x 1
+        ◦ Tabl Mirtazapin 15 mg (till natten)
+        ◦ Konservativt
+        ◦ Enkelrum
+        ◦ Samma vårdpersonal
+        ◦ Lugna förhållanden på rummet
+        ◦ Överlytt till äldrepsykiatrisk avd
+Svar: 
+  *Sjukdomshistoria*
+
+* Diagnoser: Förmaksflimmer behandlat med Pradaxa, tidigare hjärtinfarkt, hypertension, Diabetes mellitus typ 2.
+* Sjukdomshistorik: Patienten har opererats för en VP shunt 2 dygn sedan och har haft tecken till evt synshallucinationer.
+* Riskfaktorer: Ingen information om familjehistoria av sjukdomar.
+
+*Sökorsaker*
+
+* Symtom: Motoriskt orolig, utåtreagerande, ropat ut på avdelningen, gripit efter saker i luften, sover mycket under dagtid men vaken hela nätterna.
+* Datum för ingrepp: 24-02-05, CT kontroll av hjärna efter operation var ua.
+
+*Åtgärder*
+
+* Planerade undersökningar: Utredning av delirium UNS vid äldrepsykiatrisk avdelning.
+* Planerade behandlingar: Tabl Risperidon 0,5 mg x 1 dagligen och Tabl Mirtazapin 15 mg till natten.
+* Konservativa tilltag: Enkelrum, lugna förhållanden på rummet.
+* Överlytt: Troligen imorgon till äldrepsykiatrisk avdelning.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • Man
+    • 79 år
+    • HT
+    • FF
+    • DM typ 2
+    • NPH → VP shunt (1,5)
+    • Delirium
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • OP 24-02-03
+    • Kontroll CT: UA
+    • Flytt: Äldrepsykiatri 24-02-06
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Uppföljning: NPH teamet
+    • Ingen uppföljning neurokirurgen
+    • Hustru informerad
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: G912 Normaltryckshydrocephalus, F059 Delirium, ospecificerat, I489 Förmaksflimmer, I109 Essentiell Hypertoni, E119 Diabetes Mellitus typ 2
+* Sjukdomshistorik: Patienten har tidigare behandlats med Pradaxa för förmaksflimmer och har haft hjärtinfarkt, hypertension och Diabetes mellitus typ 2
+* Riskfaktorer: Inga specifika riskfaktorer har identifierats
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Symtom: Förvirring, griper efter saker i luften, motoriskt orolig, ropar på avdelningen, utåtreagerande mot personal
+* Datum för ingrepp: 24-02-03, VP shunt operation planerad
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Planerad:
+	+ Sedvanlig uppföljning via NPH teamet efter VP shunt operation
+	+ Ingen planerad uppföljning via neurokirurgen
+	+ Hustru informerad om ovanstående och accepterar
+	+ Kopia till NPH team koordinator Jonas Ahl
+
+* Aktuell:
+	+ Patienten har utvecklat delirium efter VP shunt operation
+	+ Behandling med risperidon och mirtazapin fördelad
+	+ Flyttad till äldrepsykiatrisk avdelning för vidare behandling 
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • FF (Pradaxa)
+    • Hjärtinfarkt
+    • HT 
+    • DM typ 2
+    • Rökare 
+    • Urinvägsinfektion
+    • Urinträgningar/inkontinens
+    • Dryckesvanor: 2-3 öl/dag
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Kognitiv svikt (närminnet)
+    • Bredspåriga små steg. Något framåtlutad. Vändning på 6 steg
+    • Osäker gång
+    • Fall gånger flera (inga trauman) 
+    • Inga infektionssymptom
+    • Inga neurologiska bortfall
+    • Inga kramper
+    • Lugn och adekvat i kontakten
+    • Ej orienterad i tid och rum
+    • Kan uppge personnummer
+    • Ingen dysartri/dysfasi
+    • Kranialnerver 2-12 UA
+    • Extremiteter: UA. Lätt paratoni i benen bilateralt
+    • Reflexer: UA
+    • Sensorik: UA
+    • Finger-näsa-finger test: UA
+    • knä-häl test: UA.
+    • Babinski: Neg
+    • Rhombergs test: Falltendens bakåt 
+    • Hjärta: Oregelbunden rytm med perifer puls (inga blåsljud) 
+    • Lunga: Vesikulär respiration bilateralt utan biljud 
+    • EKG: Sinusrytm. Äldre infarkt inferiort med påvisade q-vågor. Tecken till AV block I. 
+    • MMSE: 24 poäng
+    • Blodprov: Elstatus, Hb, infektionsvärden UA. 
+    • CT: Vidgat ventrikelsystem (hydrocephalus?)
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Remiss MR Hjärna: normaltryckshydrocephalus/NPH? 
+    • Remiss: NPH Teamet 
+    • Patienten och anhöriga informeras 
+    • Kopia: Inremitterande läkare FK
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: Förmaksflimmer behandlat, tidigare hjärtinfarkt, hypertension, Diabetes mellitus typ 2.
+* Sjukdomshistorik: Patienten har haft x flera besök hos vårdcentralläkare under de senaste 6 månaderna och har behandlats för urinvägsinfektion och pratats om tilltagande urinträngningar och inkontinens.
+* Riskfaktorer: Pensionerad lantbrukare från Lerum, röker pipa dagligen, dricker ca 2-3 öl dagligen.
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Allmäntillstånd: Framstår ej akut påverkad, lugn och adekvat i kontakten men påverkan på orientering.
+* Neurostatus: Ej orienterad i tid eller rum men i personnummer, ingen tecken till dysartri eller dysfasi. Kranialnerver 2-12 testade utan anmärkning.
+* Hjärta: Oregelbunden rytm med perifer puls utan blåsljud, känt förmaksflimmer.
+* Lunga: Vesikulär respiration bilateralt utan biljud.
+* EKG: Sinusrytm med tecken till äldre infarkt inferiort och första grads AV block.
+* Kognitivt test: MMSE 24 poäng (indikerar kognitiva problem).
+* Blodprov: Elstatus, Hb, infektionsvärden utan anmärkning.
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Remiss till NPH Teamet för bedömning.
+* Remiss till MR hjärna med NPH sekvenser.
+* Patienten är konfererad med överläkare Tobias Hansson.
+* Kopia till inremitterande Dr Andersson.
+
+Informationen har sammanfattanits enligt mallen och utan onödig information.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • MR Hjärna 23-07-30: Ventriuklomegali. Evans Ratio >0,3. Periventrikulärt ödem. Normaltryckshydrocephalus.
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Inväntar bedömning NPH teamet och NPH konferens
+    • Informerar patienten via brev
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: MR hjärna visar väntad ventriuklomegali med Evans Ratio >0,3 och periventrikulärt ödem.
+* Sjukdomshistorik: Misstänkta normaltryckshydrocephalus.
+* Riskfaktorer: Ingen information.
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Datum för MR-undersökning: 14/7.
+* Symtom: Ingen information.
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Planerad bedömning via NPH teamet och NPH konferens.
+* Informeringsbrev skickat till patienten om MR-fyndet.
+
+Note: The information provided is based on the given anamnes and should be used as a summary of the patient's information. It is important to consult the patient's medical records for complete and accurate information.
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • FF (Pradaxa)
+    • Hjärtinfarkt
+    • HT
+    • DM typ 2
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Neurostatus: 
+        ◦ Allmäntillstånd: Vaken 
+    • Neurostatus: 
+        ◦ Ej orienterad i tid eller rum
+        ◦ Kan uppge personnummer
+        ◦ Inget tecken till dysartri eller dysfasi
+        ◦ Kranialnerver 2-12 testade UA
+        ◦ God kraft i armar och ben bilateralt. Tydlig bredspåriga gång små steg, vändning på 7-8 steg.
+        ◦ Sensorik: Normal
+        ◦ Måttlig paratoni i benen bilateralt
+        ◦ Finger-näsa-finger test: UA 
+        ◦ Knä-häl test: UA
+        ◦ Reflexer i biceps, triceps, brachioradialis, patella och achilles: UA
+        ◦ Babinski: UA
+        ◦ Rhombergs test: Faller bakåt 
+        ◦ MMSE: 22 
+        ◦ CT och MR hjärna: NPH
+
+    • Lumbalpunktion: 
+        ◦ Informeras om procedur och risk
+        ◦ Inga kontraindikationer
+        ◦ NOAK/Pradaxa pausat 2 dygn
+        ◦ Tryck 17 cm
+        ◦ Tappar 40 ml
+        ◦ Prov: demensmarkörer och infektion
+        ◦ Patienten informeras om post LP 
+        ◦ Bingleys: 35% bättre post tapptest
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Bed neuropsykolog
+    • Fysioterapeut
+    • LP
+    • Tapptest (e.m.)
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: Misstänkt NPH (neurocytologiskt proteinuria hos hjärnan)
+* Sjukdomshistorik: Förmaksflimmer behandlat med Pradaxa, tidigare hjärtinfarkt, hypertension, Diabetes mellitus typ 2
+* Riskfaktorer: Familjehistoria av hjärtinfarkt och Diabetes mellitus typ 2
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Symtom: Försämring i både kisseriet, gångproblemer, minne och initiativförmåga
+* Besökstyp: Nybesök NPH team
+* Besöksdatum: 23-11-02
+* CT och MR-scanningar av hjärnan: Radiologisk bild av NPH
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Planerad neuropsykologisk undersökning
+* Planerad fysioterapeutisk undersökning
+* Tapptest under eftermiddagen
+* Lumbalpunktion planerad med nanKommentar till undersökning
+* Patienten har pausat NOAK/Pradaxa 2 dygn innan ingreppet
+* Bedövar med Xylocain 10 mg/ml ca 3-4 ml
+* Använder en 22 Gauge atraumatisk nål för lumbalpunktion
+* Planerad behandling med prov för demensmarkörer och infektionskontroll
+* Påmindran om evt post lumbalpunktions huvudvärk och behandling vid ihållande huvudvärk
+Gold standard:
+Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):
+    • Man
+    • 78 år
+    • FF
+    • HT
+    • DM typ 2
+Sökorsaker (patientens symtom och/eller datum för ingrepp):
+    • Bredspårig gång
+    • Trippande steg
+    • Balansbesvär
+    • Urininkontinens
+    • Närminnesbesvär
+    • MMSE: 24 (2023) → 22
+    • Neuropsykolog: NPH
+    • Fysioterapeut: NPH
+    • Radiologi: NPH
+    • Demensmarkörer: Inget svar ännu
+    • Likvor: Ingen infektion
+
+Åtgärder (planerade undersökningar, behandlingar och åtgärder)
+    • Indikation för VP shunt
+    • Patienten är positivt 
+    • Informerats om ingreppet
+    • Accepterar vidare planering
+    • Operationskoordinator. Kallar till avd 10/23 polikl
+Svar: 
+  *Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+* Diagnoser: Dm typ 2, kognitiv nedsättning (vis NPH)
+* Sjukdomshistorik: Tilltagande besvär med bredspårig gång, trippande steg, balansbesvär, urininkontinens, närminnesbesvär sedan starten av 2023
+* Riskfaktorer: Ingen information given
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+* Symtom: Bredspårig gång, trippande steg, balansbesvär, urininkontinens, närminnesbesvär
+* Datum för ingrepp: 23-11-03 (NPH Team)
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+* Planerad: VP shunt behandling via neurokirurgen
+* Pågående: Inväntar svar på demensmarkörer, ingen tecken till infektion i likvor
+* Scheduled: Polikliniskt via operationskoordinator, avd 10/23

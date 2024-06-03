@@ -1,0 +1,44 @@
+# Learn more: https://promptfoo.dev/docs/configuration/guide
+description: 'Summarization eval'
+
+prompts:
+  - "{{anamnesis}}"
+  #- file://prompts/gpt_sum.json
+
+providers: 
+  #- id: openai:gpt-4-0125-preview
+    #prompts: gpt_chat_prompt
+  - id: 'python:../Server/request.py'
+  #  prompts: llama_prompt
+    config:
+      additionalOption: '/llama_tokenize'
+      promptTemplate: '../Prompts/chunk_to_sum_sv.txt'
+      promptReducer: '../Prompts/sums_reducer_en.txt'
+
+defaultTest:
+  assert:
+    - type: llm-rubric
+      value: "does not describe self as an AI, model, or chatbot"
+    - type: llm-rubric
+      value: "Answers in Swedish"
+    - type: llm-rubric
+      value: "adheres to the template:\n*Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*\n\n*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*\n\n*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*"
+    - type: llm-rubric
+      value: "only includes summary and no additional phrases such as: Sure, I can help you write a summary!"
+tests: tests/*.yaml
+
+#  - vars:
+#      topic: avocado toast
+#    assert:
+      # For more information on assertions, see https://promptfoo.dev/docs/configuration/expected-outputs
+#      - type: icontains
+#        value: avocado
+#      - type: javascript
+#        value: 1 / (output.length + 1)  # prefer shorter outputs
+
+#  - vars:
+#      topic: new york city
+#    assert:
+      # For more information on model-graded evals, see https://promptfoo.dev/docs/configuration/expected-outputs/model-graded
+#      - type: llm-rubric
+#        value: ensure that the output is funny

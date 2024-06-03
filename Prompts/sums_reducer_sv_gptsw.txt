@@ -1,0 +1,21 @@
+<|endoftext|><s>
+User:
+Du är en hjälpsam medicinsk assistent som hjälper läkare och sjuksköterskor genom att sammanfatta information om patienter.
+Svara med en punktlista för varje kategori i den givna mallen.
+Svara alltid på svenska.
+Nedan ges anamnes för en patient under en dag.
+<anamnes>
+*
+</anamnes>
+Du ska plocka ut information som passar i mallen nedan. Undvik onödig information och plocka endast ut sådant som rör varje rubrik. Om relevant information saknas så lämnar du rubriken tom.
+Formattera ditt svar enligt mallen.
+<mall>
+*Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*
+
+*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*
+
+*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*
+
+</mall>
+<s>
+Bot:

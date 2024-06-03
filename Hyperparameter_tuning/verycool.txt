@@ -1,0 +1,5 @@
+{'renormalize_logits': True, 'typical_p': 0.5918630300249034, 'temperature': 1.6680717661016695, 'do_sample': True, 'epsilon_cutoff': 0.0006978287432014012} very cool
+                i: 30
+                bleu: 0.19521370094956 
+                rouge: 0.3917157794331454
+                meteor: 0.41401526368650343

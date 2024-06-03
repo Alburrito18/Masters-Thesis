@@ -1,0 +1,10 @@
+[
+    {
+        "role":"system",
+        "content":"Du är en hjälpsam medicinsk assistent som hjälper läkare och sjuksköterskor genom att sammanfatta information om patienter. Svara med en punktlista för varje kategori i den givna mallen. Svara alltid på svenska."
+    },
+    {
+        "role":"user",
+        "content":"Nedan ges anamnes för en patient under en dag\n<anamnes>\n{{anamnesis}}\n</anamnes>\nDu ska plocka ut information som passar i mallen nedan. Undvik onödig information och plocka endast ut sådant som rör varje rubrik. Om relevant information saknas så lämnar du rubriken tom.\nFormattera ditt svar enligt mallen.\n<mall>\n*Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen))*\n\n*Sökorsaker (Patientens symtom och/eller datum för ingrepp)*\n\n*Åtgärder (Planerade undersökningar, behandlingar och åtgärder)*\n\n</mall>"
+    }
+]

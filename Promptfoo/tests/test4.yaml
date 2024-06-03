@@ -1,0 +1,17 @@
+- description: "Test"
+  vars:
+    anamnesis: |
+      Kommentar till provsvar, 24-01-02, Läk Mats Renberg:&#10;Inkommit svar på demensmarkörer, väs ua, inget tecken till demens. 
+      
+  assert: 
+    - type: factuality
+      value: "Sjukdomshistoria (Patientens diagnoser, sjukdomshistorik och riskfaktorer (t.ex. sjukdomar i familjen)):&#10;&#10;Sökorsaker (patientens symtom och/eller datum för ingrepp):&#10;&#10;&#10;Åtgärder (planerade undersökningar, behandlingar och åtgärder)&#10;    • Provsvar (24-01-02):&#10;        ◦ Demensmarkörer: UA"
+      options:
+      factuality:
+        subset: 0
+        superset: 0
+        agree: 1
+        disagree: 0
+        differButFactual: 1
+    #- type: python
+    #  value: 1200>len(output)>800

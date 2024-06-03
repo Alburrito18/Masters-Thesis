@@ -1,0 +1,48 @@
+ """
+    <s>[INST] <<SYS>>
+    You are a helpful assistant, please summarize the text delimited by triple backticks.
+   <</SYS>>
+   ```Della finished her crying and cleaned the marks of it from her face. 
+She stood by the window and looked out with no interest. Tomorrow 
+would be Christmas Day, and she had only $1.87 with which to buy 
+Jim a gift. She had put aside as much as she could for months, with this 
+result. Twenty dollars a week is not much. Everything had cost more 
+than she had expected. It always happened like that.
+Only $ 1.87 to buy a gift for Jim. Her Jim. She had had many happy 
+hours planning something nice for him. Something nearly good enough. 
+Something almost worth the honor of belonging to Jim.
+There was a looking-glass between the windows of the room. Perhaps you have seen the kind of looking-glass that is placed in $8 furnished rooms. It was very narrow. A person could see only a little of 
+himself at a time. However, if he was very thin and moved very quickly, 
+he might be able to get a good view of himself. Della, being quite thin, 
+had mastered this art.
+Suddenly she turned from the window and stood before the glass. 
+Her eyes were shining brightly, but her face had lost its color. Quickly 
+she pulled down her hair and let it fall to its complete length.
+The James Dillingham Youngs were very proud of two things which 
+they owned. One thing was Jim’s gold watch. It had once belonged to 
+his father. And, long ago, it had belonged to his father’s father. The 
+other thing was Della’s hair```
+Remember to think step by step [/INST]
+"""
+
+  """
+    <s>[INST] <<SYS>>
+    Du är en hjälpsam medicinsk assistent som hjälper läkare och sjuksköterskor genom att sammanfatta information om patienter.
+    Du svarar alltid med max fem meningar.
+    Nedan ges en patientanamnes, avgränsad av
+    tredubbla backticks.
+    ```Vårdenhet: Neurokirurgi, avdelning 10/23 Vårdtid:
+Orsak till vård: Operation med inläggning av hjärnelektroder samt uppladdningsbar pulsgenerator mot Parkinsons sjukdom.
+Aktuell läkemedelsordination:
+Läkemedelsberättelse: Fortsätt med dina ordinarie Parkinsonmediciner. Ta Alvedon (receptfritt) mot
+sårsmärta och trappa ut detta inom ca 2 veckor.
+Restriktion:
+Planering: Du kommer att kallas till neuromottagningen om ca en månad för uppstart av systemet. Ta då med laddare och patientprogrammerare (de kartonger som du har fått med dig härifrån). Du får med dig remiss för att ta stygnen på din vårdcentral men får själv höra av dig dit för att boka tid.
+De första veckorna efter operationen är det viktigt att du undviker tunga lyft och påfrestande rörelsemoment för att skydda såren.
+Ansvarig:
+Kontakt efter utskrivning: Vid nytillkommen neurologisk försämring eller andra akuta besvär ska du uppsöka närmaste akutmottagning! Vid tecken till sårinfektion (rodnad, svullnad, sårläckage eller feber) ska du kontakta sjukvården (även på helger) och be att de informerar neurokirurgen!
+Om du har frågor eller funderingar efter operationen ska du i första hand kontakta motorikteamet inom neurosjukvården 031 - 342 89 27 (telefontid: måndag-fredag kl. 8:30 - 10:30).```
+   <</SYS>>
+Tänk steg för steg och skapa en sammanfattning av
+ läkaranteckningarna på svenska [/INST]
+"""

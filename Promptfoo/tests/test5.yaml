@@ -1,0 +1,18 @@
+- description: "Test"
+  vars:
+    anamnesis: |
+      "Aktuellt:&#10;En 25-årig kvinna med återkommande smärta och domningar i sin högra arm och hand, särskilt efter att ha utfört upprepade rörelser över huvudet på sina arbeten som grafiker och hunduppfödare. Hon nämnde också att hon upplevde en känsla av trötthet i armen och att hennes fingrar ibland blev bleka när hon arbetade i kyliga miljöer eller när hon cyklade. Trots att hon initialt tillskrev dessa symtom till överansträngning blev hon alltmer oroad över att symtomen inte förbättrades med vila eller efter att ha använt ergonomiska anpassningar vid sin arbetsstation.&#10;Min undersökning visade en viss minskning av muskelstyrkan och känseln i den drabbade armen och att hennes puls minskade i intensitet när hon placerade armen i vissa positioner, vilket väckte misstankar om möjlig kärlpåverkan. För att ytterligare utvärdera dessa fynd, beställde jag en ultraljudsundersökning av hennes axelregion för att bedöma blodflödet i subklavia.&#10;Resultatet visade en signifikant minskning av blodflödet genom a. subklavia vilket stärker min misstanke om att detta rör sig om Arteriellt Thoracic Outlet Syndrome (TOS). Uppföljande röntgen avslöjade dessutom närvaron av ett litet extra revben, vilket troligen bidrog till kompressionen av blodkärlen.&#10;Remitterar nu henne till er för handläggning och beslut om eventuell behandling/ingrepp.
+      {"besökstyp": "F", "namn": "Emelie Andersson", "personnummer": "19990101-XX40", "orsak": "TOS"}"
+      
+  assert: 
+    - type: factuality
+      value: "*Sjukdomshistoria*:&#10;Icke-rökare. I övrigt frisk. Tillfälligt insatt på Eliquis &#10;&#10;*Sökorsaker*:&#10;Arteriellt Thoracic Outlet Syndrome (TOS). Röntgen: extra revben.&#10;Undersökning och beslut om åtgärd&#10;&#10;*Åtgärder*:&#10;Blodtryck bilateralt&#10;"
+      options:
+      factuality:
+        subset: 0
+        superset: 0
+        agree: 1
+        disagree: 0
+        differButFactual: 1
+    #- type: python
+    #  value: 1200>len(output)>800

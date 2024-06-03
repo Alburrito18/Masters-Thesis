@@ -1,0 +1,53 @@
+Gold standard:
+*Sjukdomshistoria*:
+Hypertoni, Hyperlipidemi, tidigare rökare (slutade för 10 år sedan). Fadern hade hjärt-kärlsjukdomar inklusive Abdominalt Aortaaneurysm
+
+*Sökorsaker*:
+Bukaortaneurysm på 68 mm
+
+*Åtgärder*:
+ABISvar: 
+'namn': 'Rolf Rallare' , 'lder' 68 mm . 'medicinsk_historik': ['Tablettbehandlad Hypertoni, Hyperlipidemi, tidigare rökare (slutade för 10 r sedan ) . [[metoprolol 100 mg dagligen' ], 'allergier': "Inga kaortaneurysm p 68mm.results:remiss till kärlkirurgen f utvärdering och eventuell intervention .Gold standard:
+*Sjukdomshistoria*:
+Typ 2 Diabetes Mellitus, Fetma (BMI: 32), Rökare, Tablettbehandlad hyperlipidemi, knäartros
+
+*Sökorsaker*:
+Smärta i nedre extremiteterna.
+Gångsträcka: 50 m.
+Fördröjd kapillär återfyllnad.
+ABI 0.6 Vä
+
+*Åtgärder*:
+ABI
+Distalstatus
+Svar: 
+ankel-Brachialis Index (ABI): 0.9 p höger, 0.6% vänster . avstndet hon kan g utan smärta i nedre extremiteterna som uppstrr vid ging och vila .Gold standard:
+*Sjukdomshistoria*:
+PCI-behandlad hjärtinfarkt 2011, Angina Pectoris, Hypertoni, djup ven trombos (DVT) 2011
+
+*Sökorsaker*:
+Obehag i båda benen.
+Smärta vid gång och ihållande värk, svullnad och tyngd.
+Sval hud bilateralt.
+Åderbråck.
+Ödem i anklarna.
+Pigmentförändringar runt vaderna.
+Inga sår (läkta)
+Svårt att hitta pulsar
+
+*Åtgärder*:
+ABI
+Distalstatus
+Svar: 
+svrt att hitta pulsar i bda fötterna , inga activa sr men tecken p läktas . av smärta and ihllande värk , beskrivs som en kombination . beskriver progressivt obehag i inga kända läkemedelsallergier' .Gold standard:
+*Sjukdomshistoria*:
+Icke-rökare. I övrigt frisk. Tillfälligt insatt på Eliquis 
+
+*Sökorsaker*:
+Arteriellt Thoracic Outlet Syndrome (TOS). Röntgen: extra revben.
+Undersökning och beslut om åtgärd
+
+*Åtgärder*:
+Blodtryck bilateralt
+Svar: 
+'namn': 'emelie Andersson', 'lder': 25-rig kvinna med terkommande smärta och domningar i sin högra arm och hand , särskilt efter att ha utfört upprepade rörelser över huvudet p sina arbeten som grafiker och hunduppfödare .
