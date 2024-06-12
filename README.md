@@ -1,8 +1,8 @@
 # Large Language Models For Patient Document Summarization
 
-##  A case study in applying large language models for patient document summarization conducted at Sahlgrenska University Hospital
+A case study in applying large language models for patient document summarization conducted at Sahlgrenska University Hospital
 
-## Authors: [Albert Lund](https://github.com/Alburrito18/) & [Felix Nilsson](https://github.com/Felix-Nilsson)
+Authors: [Albert Lund](https://github.com/Alburrito18/) & [Felix Nilsson](https://github.com/Felix-Nilsson)
 
 ---
 This repository contains the code, report and slides for our masters thesis:
